@@ -14,9 +14,12 @@ if (!defined('ABSPATH')) {
 class WCPMap
 {
 	public static $petromap_api_key = "petromap_api_key";
+	public $version;
 
 	public function __construct()
 	{
+		$plugin_data = get_plugin_data(__FILE__);
+		$this->version = $plugin_data['Version'];
 		include_once('class-wcpmap_dependencies.php');
 
 		if (is_admin()) {
@@ -80,8 +83,7 @@ class WCPMap
 
 	public function init_petromap_script()
 	{
-		global $original_api_key;
-		global $WCMp;
+		global $WCPMap;
 		global $user;
 		$vendor = get_current_vendor();
 		if (!$vendor) {
@@ -128,18 +130,18 @@ class WCPMap
 
 		$minify = defined('WCPMAP_DEBUG') ? '.min' : '';
 
-		wp_register_script('petromap-api-polyfills', plugins_url('/lib/petromap-js/polyfills' . $minify . '.js', WCPMAP_PLUGIN_FILE));
-		wp_register_script('petromap-api-main', plugins_url('/lib/petromap-js/main' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills'));
-		wp_register_script('petromap-api-stylejs', plugins_url('/lib/petromap-js/styles' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills', 'petromap-api-main'));
+		wp_register_script('petromap-api-polyfills', plugins_url('/lib/petromap-js/polyfills' . $minify . '.js', WCPMAP_PLUGIN_FILE), array(), $WCPMap->version);
+		wp_register_script('petromap-api-main', plugins_url('/lib/petromap-js/main' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills'), $WCPMap->version);
+		wp_register_script('petromap-api-stylejs', plugins_url('/lib/petromap-js/styles' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills', 'petromap-api-main'), $WCPMap->version);
 
-		wp_register_script('petromap-vendor', plugins_url('/assets/frontend/js/vendor.js', WCPMAP_PLUGIN_FILE), array('jquery_spinner_js'));
-		wp_register_script('petromap-init', plugins_url('/assets/frontend/js/init.js', WCPMAP_PLUGIN_FILE), array('jquery', 'petromap-api-main'));
-		wp_register_script('jquery_spinner_js',  plugins_url('/assets/frontend/js/PMapSpinner' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('jquery'), $WCMp->version, true);
+		wp_register_script('petromap-vendor', plugins_url('/assets/frontend/js/vendor.js', WCPMAP_PLUGIN_FILE), array('jquery_spinner_js'), $WCPMap->version);
+		wp_register_script('petromap-init', plugins_url('/assets/frontend/js/init.js', WCPMAP_PLUGIN_FILE), array('jquery', 'petromap-api-main'), $WCPMap->version);
+		wp_register_script('jquery_spinner_js',  plugins_url('/lib/petromap-js/PMapSpinner' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('jquery'), $WCPMap->version);
 
 		wp_localize_script('petromap-vendor', 'pmap_config', array_filter($pmap_config));
 
-		wp_register_style('petromap-api-style', plugins_url('/lib/petromap-js/styles' . $minify . '.css', WCPMAP_PLUGIN_FILE));
-		wp_register_style('jquery_spinner_css', plugins_url('/assets/frontend/css/PMapSpinner' . $minify . '.css', WCPMAP_PLUGIN_FILE));
+		wp_register_style('petromap-api-style', plugins_url('/lib/petromap-js/styles' . $minify . '.css', WCPMAP_PLUGIN_FILE), array(), $WCPMap->version);
+		wp_register_style('jquery_spinner_css', plugins_url('/lib/petromap-js/PMapSpinner' . $minify . '.css', WCPMAP_PLUGIN_FILE), array(), $WCPMap->version);
 
 
 
