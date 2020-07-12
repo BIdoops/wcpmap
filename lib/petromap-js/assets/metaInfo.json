@@ -1,0 +1,57 @@
+{
+	"about": {
+		"title": "Acerca de",
+		"description": "Impulsando el ecosistema Petro. PetroMap, una plataforma creada con el objetivo de impulsar la aceptación del Petro como medio de pago, por parte de los proveedores de bienes y servicios en Venezuela."
+	},
+	"team": {
+		"title": "El equipo",
+		"image": "team_preview.jpg",
+		"description": "Trabajamos de la mano contigo. Reconocemos el voluntariado y la colaboración como valores fundamentales en nuestra sociedad."
+	},
+	"contact": {
+		"title": "Contáctanos",
+		"image": "contact-preview.jpg",
+		"description": "Necesidad de consejos o informaciones, estamos aquí para ayudarte."
+	},
+	"team": {
+		"title": "Contáctanos",
+		"image": "contact-preview.jpg^",
+		"description": "Necesidad de consejos o informaciones, estamos aquí para ayudarte."
+	},	
+	"login": {
+		"title": "Inicia sesión",
+		"description": "Inicia sesión en PetroMap para empezar a compartir establecimientos aceptando la criptomoneda Petro."
+	},
+	"profile": {
+		"title": "Perfil",
+		"description": "Mapa virtual de establecimientos aceptando pagos en la criptomoneda Petro."
+	},
+	"register": {
+		"title": "Regístrate",
+		"description": "Crea una cuenta o inicia sesión en PetroMap. Empieza a compartir establecimientos aceptando la criptomoneda Petro."
+	},
+	"forgot-password": {
+		"title": "¿Olvidaste tu contraseña?",
+		"description": "Introduce la dirección de correo electrónico asociada a tu cuenta. Te enviaremos un correo electrónico con las instrucciones para reinitializar tu contraseña."
+	},
+	"password-change": {
+		"title": "Cambia tu contraseña",
+		"description": "Cambiar la contraseña de tu cuenta de PetroMap. Para cambiar la contraseña, debes acceder a tu cuenta. Inicia sesión."
+	},
+	"shops": {
+		"title": "Establecimientos",
+		"description": "Lista de establecimientos aceptando pagos en la criptomoneda Petro."
+	},
+	"my-shops": {
+		"title": "Mis establecimientos",
+		"description": "Lista de mis establecimientos agregados a PetroMap."
+	},
+	"privacy-policy": {
+		"title": "Política de privacidad",
+		"description": "El propósito de esta sección es proporcionarle información completa sobre el uso que hace la compañía con los datos personales de los usuarios que hacen uso de la aplicación servida en www.petromap.org."
+	},
+	"terms": {
+		"title": "Condiciones de uso",
+		"description": "Al registrarse en los servicios y/o utilizarlos de cualquier forma, incluyendo, sin carácter restrictivo, visitar o explorar el Sitio, acepta todos los términos y condiciones aquí contenidos."
+	}
+}

@@ -1,0 +1,3326 @@
+[
+	{
+		"label": "Abasto",
+		"name": "abasto"
+	},
+	{
+		"label": "Abogado",
+		"name": "abogado"
+	},
+	{
+		"label": "Academia de baile",
+		"name": "academia de baile"
+	},
+	{
+		"label": "Academia de informática",
+		"name": "academia de informatica"
+	},
+	{
+		"label": "Academia de inglés",
+		"name": "academia de ingles"
+	},
+	{
+		"label": "Academia de pintura",
+		"name": "academia de pintura"
+	},
+	{
+		"label": "Administrador de la propiedad",
+		"name": "administrador de la propiedad"
+	},
+	{
+		"label": "Aeródromo",
+		"name": "aerodromo"
+	},
+	{
+		"label": "Aeropuerto",
+		"name": "aeropuerto"
+	},
+	{
+		"label": "Aeropuerto militar",
+		"name": "aeropuerto militar"
+	},
+	{
+		"label": "Agencia de cruceros",
+		"name": "agencia de cruceros"
+	},
+	{
+		"label": "Agencia de espectáculos",
+		"name": "agencia de espectaculos"
+	},
+	{
+		"label": "Agencia de excursiones",
+		"name": "agencia de excursiones"
+	},
+	{
+		"label": "Agencia de itinerarios turísticos",
+		"name": "agencia de itinerarios turisticos"
+	},
+	{
+		"label": "Agencia de marketing",
+		"name": "agencia de marketing"
+	},
+	{
+		"label": "Agencia de préstamos",
+		"name": "agencia de prestamos"
+	},
+	{
+		"label": "Agencia de publicidad",
+		"name": "agencia de publicidad"
+	},
+	{
+		"label": "Agencia de rutas a caballo",
+		"name": "agencia de rutas a caballo"
+	},
+	{
+		"label": "Agencia de traducción",
+		"name": "agencia de traduccion"
+	},
+	{
+		"label": "Agencia de viajes",
+		"name": "agencia de viajes"
+	},
+	{
+		"label": "Agencia inmobiliaria",
+		"name": "agencia inmobiliaria"
+	},
+	{
+		"label": "Albañil",
+		"name": "albañil"
+	},
+	{
+		"label": "Albergue",
+		"name": "albergue"
+	},
+	{
+		"label": "Alergólogo",
+		"name": "alergologo"
+	},
+	{
+		"label": "Almacén de aluminio",
+		"name": "almacen de aluminio"
+	},
+	{
+		"label": "Almazara",
+		"name": "almazara"
+	},
+	{
+		"label": "Alquiler de almacén",
+		"name": "alquiler de almacen"
+	},
+	{
+		"label": "Alquiler de autobús",
+		"name": "alquiler de autobus"
+	},
+	{
+		"label": "Alquiler de automóvil",
+		"name": "alquiler de automovil"
+	},
+	{
+		"label": "Alquiler de bicicletas",
+		"name": "alquiler de bicicletas"
+	},
+	{
+		"label": "Alquiler de camiones",
+		"name": "alquiler de camiones"
+	},
+	{
+		"label": "Alquiler de equipo audiovisual",
+		"name": "alquiler de equipo audiovisual"
+	},
+	{
+		"label": "Alquiler de equipos de fotografía",
+		"name": "alquiler de equipos de fotografia"
+	},
+	{
+		"label": "Alquiler de furgonetas",
+		"name": "alquiler de furgonetas"
+	},
+	{
+		"label": "Alquiler de instrumentos musicales",
+		"name": "alquiler de instrumentos musicales"
+	},
+	{
+		"label": "Alquiler de limusinas",
+		"name": "alquiler de limusinas"
+	},
+	{
+		"label": "Alquiler de maquinaria",
+		"name": "alquiler de maquinaria"
+	},
+	{
+		"label": "Alquiler de motos",
+		"name": "alquiler de motos"
+	},
+	{
+		"label": "Alquiler de quad",
+		"name": "alquiler de quad"
+	},
+	{
+		"label": "Ambulancia",
+		"name": "ambulancia"
+	},
+	{
+		"label": "Apartamento turístico",
+		"name": "apartamento turistico"
+	},
+	{
+		"label": "Apartotel",
+		"name": "apartotel"
+	},
+	{
+		"label": "Aquarium",
+		"name": "aquarium"
+	},
+	{
+		"label": "Archivo",
+		"name": "archivo"
+	},
+	{
+		"label": "Archivo militar",
+		"name": "archivo militar"
+	},
+	{
+		"label": "Armería",
+		"name": "armeria"
+	},
+	{
+		"label": "Arquitecto",
+		"name": "arquitecto"
+	},
+	{
+		"label": "Arrocería",
+		"name": "arroceria"
+	},
+	{
+		"label": "Aserradero",
+		"name": "aserradero"
+	},
+	{
+		"label": "Asesoría criptofinanciera",
+		"name": "asesoria criptofinanciera"
+	},
+	{
+		"label": "Asesoría en contrataciones",
+		"name": "asesoria en contrataciones"
+	},
+	{
+		"label": "Asesoría fiscal",
+		"name": "asesoria fiscal"
+	},
+	{
+		"label": "Asesoría laboral",
+		"name": "asesoria laboral"
+	},
+	{
+		"label": "Asistencia sanitaria a domicilio",
+		"name": "asistencia sanitaria a domicilio"
+	},
+	{
+		"label": "Asistente social",
+		"name": "asistente social"
+	},
+	{
+		"label": "Asociación",
+		"name": "asociacion"
+	},
+	{
+		"label": "Astillero",
+		"name": "astillero"
+	},
+	{
+		"label": "Auditorio",
+		"name": "auditorio"
+	},
+	{
+		"label": "Autobús urbano",
+		"name": "autobus urbano"
+	},
+	{
+		"label": "Autoescuela",
+		"name": "autoescuela"
+	},
+	{
+		"label": "Auxiliar técnico sanitario",
+		"name": "auxiliar tecnico sanitario"
+	},
+	{
+		"label": "Ayuntamiento",
+		"name": "ayuntamiento"
+	},
+	{
+		"label": "Banco",
+		"name": "banco"
+	},
+	{
+		"label": "Banda de música",
+		"name": "banda de musica"
+	},
+	{
+		"label": "Baño turco",
+		"name": "baño turco"
+	},
+	{
+		"label": "Baños árabes",
+		"name": "baños arabes"
+	},
+	{
+		"label": "Bar",
+		"name": "bar"
+	},
+	{
+		"label": "Basílica",
+		"name": "basilica"
+	},
+	{
+		"label": "Bazar de alimentación",
+		"name": "bazar de alimentacion"
+	},
+	{
+		"label": "Biblioteca pública",
+		"name": "biblioteca publica"
+	},
+	{
+		"label": "Bingo",
+		"name": "bingo"
+	},
+	{
+		"label": "Bodega",
+		"name": "bodega"
+	},
+	{
+		"label": "Bolera",
+		"name": "bolera"
+	},
+	{
+		"label": "Bombonería",
+		"name": "bomboneria"
+	},
+	{
+		"label": "Bufete de abogados",
+		"name": "bufete de abogados"
+	},
+	{
+		"label": "Buffet libre",
+		"name": "buffet libre"
+	},
+	{
+		"label": "Bungaló",
+		"name": "bungalo"
+	},
+	{
+		"label": "Café",
+		"name": "cafe"
+	},
+	{
+		"label": "Cafetera",
+		"name": "cafetera"
+	},
+	{
+		"label": "Caja de ahorros",
+		"name": "caja de ahorros"
+	},
+	{
+		"label": "Calderería industrial",
+		"name": "caldereria industrial"
+	},
+	{
+		"label": "Cámara agraria",
+		"name": "camara agraria"
+	},
+	{
+		"label": "Cámara de comercio",
+		"name": "camara de comercio"
+	},
+	{
+		"label": "Campamento",
+		"name": "campamento"
+	},
+	{
+		"label": "Camping",
+		"name": "camping"
+	},
+	{
+		"label": "Campo de fútbol",
+		"name": "campo de futbol"
+	},
+	{
+		"label": "Campo de golf",
+		"name": "campo de golf"
+	},
+	{
+		"label": "Campo de tiro",
+		"name": "campo de tiro"
+	},
+	{
+		"label": "Campus universitario",
+		"name": "campus universitario"
+	},
+	{
+		"label": "Canales y Puertos",
+		"name": "canales y puertos"
+	},
+	{
+		"label": "Cancha de baloncesto",
+		"name": "cancha de baloncesto"
+	},
+	{
+		"label": "Cantera",
+		"name": "cantera"
+	},
+	{
+		"label": "Caravana",
+		"name": "caravana"
+	},
+	{
+		"label": "Cardiólogo",
+		"name": "cardiologo"
+	},
+	{
+		"label": "Carnicera",
+		"name": "carnicera"
+	},
+	{
+		"label": "Carpintera",
+		"name": "carpintera"
+	},
+	{
+		"label": "Carpintera metálica y de aluminio",
+		"name": "carpintera metalica y de aluminio"
+	},
+	{
+		"label": "Casa de la cultura",
+		"name": "casa de la cultura"
+	},
+	{
+		"label": "Casa rural",
+		"name": "casa rural"
+	},
+	{
+		"label": "Casino",
+		"name": "casino"
+	},
+	{
+		"label": "Catastro",
+		"name": "catastro"
+	},
+	{
+		"label": "Catedral",
+		"name": "catedral"
+	},
+	{
+		"label": "Cementerio",
+		"name": "cementerio"
+	},
+	{
+		"label": "Cementerio de animales",
+		"name": "cementerio de animales"
+	},
+	{
+		"label": "Central nuclear",
+		"name": "central nuclear"
+	},
+	{
+		"label": "Central solar fotovoltaica",
+		"name": "central solar fotovoltaica"
+	},
+	{
+		"label": "Central térmica",
+		"name": "central termica"
+	},
+	{
+		"label": "Centro asistencial de da",
+		"name": "centro asistencial de da"
+	},
+	{
+		"label": "Centro comercial",
+		"name": "centro comercial"
+	},
+	{
+		"label": "Centro de bronceado",
+		"name": "centro de bronceado"
+	},
+	{
+		"label": "Centro de certificados médicos",
+		"name": "centro de certificados medicos"
+	},
+	{
+		"label": "Centro de diagnóstico clínico",
+		"name": "centro de diagnostico clinico"
+	},
+	{
+		"label": "Centro de diagnóstico por imagen",
+		"name": "centro de diagnostico por imagen"
+	},
+	{
+		"label": "Centro de documentación",
+		"name": "centro de documentacion"
+	},
+	{
+		"label": "Centro de estética",
+		"name": "centro de estetica"
+	},
+	{
+		"label": "Centro de formación profesional",
+		"name": "centro de formacion profesional"
+	},
+	{
+		"label": "Centro de jardinera",
+		"name": "centro de jardinera"
+	},
+	{
+		"label": "Centro de masajes",
+		"name": "centro de masajes"
+	},
+	{
+		"label": "Centro de máster y cursos de postgrado",
+		"name": "centro de master y cursos de postgrado"
+	},
+	{
+		"label": "Centro de meteorología",
+		"name": "centro de meteorologia"
+	},
+	{
+		"label": "Centro de negocios",
+		"name": "centro de negocios"
+	},
+	{
+		"label": "Centro de osteopatía",
+		"name": "centro de osteopatia"
+	},
+	{
+		"label": "Centro de pilates",
+		"name": "centro de pilates"
+	},
+	{
+		"label": "Centro de planificación familiar",
+		"name": "centro de planificacion familiar"
+	},
+	{
+		"label": "Centro de quiropráctica",
+		"name": "centro de quiropractica"
+	},
+	{
+		"label": "Centro de rehabilitación en drogodependencias",
+		"name": "centro de rehabilitacion en drogodependencias"
+	},
+	{
+		"label": "Centro de salud",
+		"name": "centro de salud"
+	},
+	{
+		"label": "Centro de yoga",
+		"name": "centro de yoga"
+	},
+	{
+		"label": "Centro deportivo",
+		"name": "centro deportivo"
+	},
+	{
+		"label": "Centro médico",
+		"name": "centro medico"
+	},
+	{
+		"label": "Centro penitenciario",
+		"name": "centro penitenciario"
+	},
+	{
+		"label": "Centro social y cultural",
+		"name": "centro social y cultural"
+	},
+	{
+		"label": "Cerrajería",
+		"name": "cerrajeria"
+	},
+	{
+		"label": "Cerrajero",
+		"name": "cerrajero"
+	},
+	{
+		"label": "Cervecería",
+		"name": "cerveceria"
+	},
+	{
+		"label": "Charcutería",
+		"name": "charcuteria"
+	},
+	{
+		"label": "Chocolatería",
+		"name": "chocolateria"
+	},
+	{
+		"label": "Churrería",
+		"name": "churreria"
+	},
+	{
+		"label": "Cibercafé",
+		"name": "cibercafe"
+	},
+	{
+		"label": "Circuito de carreras",
+		"name": "circuito de carreras"
+	},
+	{
+		"label": "Cirujano general y del aparato digestivo",
+		"name": "cirujano general y del aparato digestivo"
+	},
+	{
+		"label": "Cirujano vascular",
+		"name": "cirujano vascular"
+	},
+	{
+		"label": "Ciudad de la Justicia",
+		"name": "ciudad de la justicia"
+	},
+	{
+		"label": "Ciudad del Transporte",
+		"name": "ciudad del transporte"
+	},
+	{
+		"label": "Clases de danza del vientre",
+		"name": "clases de danza del vientre"
+	},
+	{
+		"label": "Clases de salsa",
+		"name": "clases de salsa"
+	},
+	{
+		"label": "Clínica andrológica",
+		"name": "clinica andrologica"
+	},
+	{
+		"label": "Clínica capilar",
+		"name": "clinica capilar"
+	},
+	{
+		"label": "Clínica de acupuntura",
+		"name": "clinica de acupuntura"
+	},
+	{
+		"label": "Clínica de cirugía estética y reparadora",
+		"name": "clinica de cirugia estetica y reparadora"
+	},
+	{
+		"label": "Clínica de depilación por láser",
+		"name": "clinica de depilacion por laser"
+	},
+	{
+		"label": "Clínica de fisioterapia",
+		"name": "clinica de fisioterapia"
+	},
+	{
+		"label": "Clínica de homeopatía",
+		"name": "clinica de homeopatia"
+	},
+	{
+		"label": "Clínica de naturopatía",
+		"name": "clinica de naturopatia"
+	},
+	{
+		"label": "Clínica dental",
+		"name": "clinica dental"
+	},
+	{
+		"label": "Clínica ginecológica",
+		"name": "clinica ginecologica"
+	},
+	{
+		"label": "Clínica oftalmológica",
+		"name": "clinica oftalmologica"
+	},
+	{
+		"label": "Clínica podológica",
+		"name": "clinica podologica"
+	},
+	{
+		"label": "Clínica veterinaria",
+		"name": "clinica veterinaria"
+	},
+	{
+		"label": "Club de ajedrez",
+		"name": "club de ajedrez"
+	},
+	{
+		"label": "Club de alterne",
+		"name": "club de alterne"
+	},
+	{
+		"label": "Club de atletismo",
+		"name": "club de atletismo"
+	},
+	{
+		"label": "Club de automovilismo",
+		"name": "club de automovilismo"
+	},
+	{
+		"label": "Club de baloncesto",
+		"name": "club de baloncesto"
+	},
+	{
+		"label": "Club de caza",
+		"name": "club de caza"
+	},
+	{
+		"label": "Club de fitness",
+		"name": "club de fitness"
+	},
+	{
+		"label": "Club de fútbol",
+		"name": "club de futbol"
+	},
+	{
+		"label": "Club de golf",
+		"name": "club de golf"
+	},
+	{
+		"label": "Club de natación",
+		"name": "club de natacion"
+	},
+	{
+		"label": "Club de pádel",
+		"name": "club de padel"
+	},
+	{
+		"label": "Club de pesca deportiva",
+		"name": "club de pesca deportiva"
+	},
+	{
+		"label": "Club de tenis",
+		"name": "club de tenis"
+	},
+	{
+		"label": "Club de tiro deportivo",
+		"name": "club de tiro deportivo"
+	},
+	{
+		"label": "Club náutico",
+		"name": "club nautico"
+	},
+	{
+		"label": "Club social privado",
+		"name": "club social privado"
+	},
+	{
+		"label": "Colchonera",
+		"name": "colchonera"
+	},
+	{
+		"label": "Colegio bilingüe",
+		"name": "colegio bilingüe"
+	},
+	{
+		"label": "Colegio concertado",
+		"name": "colegio concertado"
+	},
+	{
+		"label": "Colegio de educación especial",
+		"name": "colegio de educacion especial"
+	},
+	{
+		"label": "Colegio mayor universitario",
+		"name": "colegio mayor universitario"
+	},
+	{
+		"label": "Colegio Oficial de Abogados",
+		"name": "colegio oficial de abogados"
+	},
+	{
+		"label": "Colegio Oficial de Aparejadores y Arquitectos Técnicos",
+		"name": "colegio oficial de aparejadores y arquitectos tecnicos"
+	},
+	{
+		"label": "Colegio Oficial de Arquitectos",
+		"name": "colegio oficial de arquitectos"
+	},
+	{
+		"label": "Colegio Oficial de Enfermería",
+		"name": "colegio oficial de enfermeria"
+	},
+	{
+		"label": "Colegio Oficial de Ingenieros Industriales",
+		"name": "colegio oficial de ingenieros industriales"
+	},
+	{
+		"label": "Colegio Oficial de Ingenieros Técnicos Industriales",
+		"name": "colegio oficial de ingenieros tecnicos industriales"
+	},
+	{
+		"label": "Colegio Oficial de Médicos",
+		"name": "colegio oficial de medicos"
+	},
+	{
+		"label": "Colegio Oficial de Notarios",
+		"name": "colegio oficial de notarios"
+	},
+	{
+		"label": "Colegio privado",
+		"name": "colegio privado"
+	},
+	{
+		"label": "Colegio público",
+		"name": "colegio publico"
+	},
+	{
+		"label": "Comedor universitario",
+		"name": "comedor universitario"
+	},
+	{
+		"label": "Comida china a domicilio",
+		"name": "comida china a domicilio"
+	},
+	{
+		"label": "Comisaría de Policía",
+		"name": "comisaria de policia"
+	},
+	{
+		"label": "Compañía de danza",
+		"name": "compañia de danza"
+	},
+	{
+		"label": "Compañía de teatro",
+		"name": "compañia de teatro"
+	},
+	{
+		"label": "Compañía eléctrica",
+		"name": "compañia electrica"
+	},
+	{
+		"label": "Compañía minera",
+		"name": "compañia minera"
+	},
+	{
+		"label": "Compañía suministradora de agua",
+		"name": "compañia suministradora de agua"
+	},
+	{
+		"label": "Compañía suministradora de gas natural",
+		"name": "compañia suministradora de gas natural"
+	},
+	{
+		"label": "Compañía telefónica",
+		"name": "compañia telefonica"
+	},
+	{
+		"label": "Complejo hotelero",
+		"name": "complejo hotelero"
+	},
+	{
+		"label": "Concesionario de automóviles",
+		"name": "concesionario de automoviles"
+	},
+	{
+		"label": "Concesionario de camiones",
+		"name": "concesionario de camiones"
+	},
+	{
+		"label": "Concesionario de motos",
+		"name": "concesionario de motos"
+	},
+	{
+		"label": "Consejera de Educación",
+		"name": "consejera de educacion"
+	},
+	{
+		"label": "Consejo comarcal",
+		"name": "consejo comarcal"
+	},
+	{
+		"label": "Conservatorio de danza",
+		"name": "conservatorio de danza"
+	},
+	{
+		"label": "Conservatorio de música",
+		"name": "conservatorio de musica"
+	},
+	{
+		"label": "Construcción de piscinas",
+		"name": "construccion de piscinas"
+	},
+	{
+		"label": "Consultora de empresa",
+		"name": "consultora de empresa"
+	},
+	{
+		"label": "Consultora de marketing",
+		"name": "consultora de marketing"
+	},
+	{
+		"label": "Consultora financiera",
+		"name": "consultora financiera"
+	},
+	{
+		"label": "Consultora informática",
+		"name": "consultora informatica"
+	},
+	{
+		"label": "Consultora medioambiental",
+		"name": "consultora medioambiental"
+	},
+	{
+		"label": "Convento",
+		"name": "convento"
+	},
+	{
+		"label": "Cooperativa agropecuaria",
+		"name": "cooperativa agropecuaria"
+	},
+	{
+		"label": "Cooperativa de viviendas",
+		"name": "cooperativa de viviendas"
+	},
+	{
+		"label": "Cooperativa olivarera",
+		"name": "cooperativa olivarera"
+	},
+	{
+		"label": "Copistería",
+		"name": "copisteria"
+	},
+	{
+		"label": "Coro",
+		"name": "coro"
+	},
+	{
+		"label": "Crepería",
+		"name": "creperia"
+	},
+	{
+		"label": "Criadero de perros",
+		"name": "criadero de perros"
+	},
+	{
+		"label": "Cristalería",
+		"name": "cristaleria"
+	},
+	{
+		"label": "Cuartel de la Guardia Civil",
+		"name": "cuartel de la guardia civil"
+	},
+	{
+		"label": "Cuartel militar",
+		"name": "cuartel militar"
+	},
+	{
+		"label": "Decorador interiorista",
+		"name": "decorador interiorista"
+	},
+	{
+		"label": "Delegación de Hacienda",
+		"name": "delegacion de hacienda"
+	},
+	{
+		"label": "Delegación de Medio Ambiente",
+		"name": "delegacion de medio ambiente"
+	},
+	{
+		"label": "Delegación de Servicios Sociales",
+		"name": "delegacion de servicios sociales"
+	},
+	{
+		"label": "Dentista",
+		"name": "dentista"
+	},
+	{
+		"label": "Deportes de aventura",
+		"name": "deportes de aventura"
+	},
+	{
+		"label": "Dermatólogo",
+		"name": "dermatologo"
+	},
+	{
+		"label": "Desguace",
+		"name": "desguace"
+	},
+	{
+		"label": "Detective privado",
+		"name": "detective privado"
+	},
+	{
+		"label": "Diputación provincial",
+		"name": "diputacion provincial"
+	},
+	{
+		"label": "Discoteca",
+		"name": "discoteca"
+	},
+	{
+		"label": "Diseñador gráfico",
+		"name": "diseñador grafico"
+	},
+	{
+		"label": "Diseño de jardines y paisajismo",
+		"name": "diseño de jardines y paisajismo"
+	},
+	{
+		"label": "Diseño web",
+		"name": "diseño web"
+	},
+	{
+		"label": "Distribuidor de equipos de telecomunicación",
+		"name": "distribuidor de equipos de telecomunicacion"
+	},
+	{
+		"label": "Distribuidor de máquinas expendedoras automáticas",
+		"name": "distribuidor de maquinas expendedoras automaticas"
+	},
+	{
+		"label": "Distribuidor de máquinas fotocopiadoras",
+		"name": "distribuidor de maquinas fotocopiadoras"
+	},
+	{
+		"label": "Distribuidor de máquinas recreativas",
+		"name": "distribuidor de maquinas recreativas"
+	},
+	{
+		"label": "Droguería",
+		"name": "drogueria"
+	},
+	{
+		"label": "Ebanista",
+		"name": "ebanista"
+	},
+	{
+		"label": "Ebanistería",
+		"name": "ebanisteria"
+	},
+	{
+		"label": "Editorial",
+		"name": "editorial"
+	},
+	{
+		"label": "Editorial de música impresa",
+		"name": "editorial de musica impresa"
+	},
+	{
+		"label": "Editorial de publicaciones periódicas",
+		"name": "editorial de publicaciones periodicas"
+	},
+	{
+		"label": "Electricista",
+		"name": "electricista"
+	},
+	{
+		"label": "Emisora de radio",
+		"name": "emisora de radio"
+	},
+	{
+		"label": "Emisora de televisión",
+		"name": "emisora de television"
+	},
+	{
+		"label": "Empresa constructora",
+		"name": "empresa constructora"
+	},
+	{
+		"label": "Empresa de acabados metálicos",
+		"name": "empresa de acabados metalicos"
+	},
+	{
+		"label": "Empresa de aguas minerales",
+		"name": "empresa de aguas minerales"
+	},
+	{
+		"label": "Empresa de aislamientos",
+		"name": "empresa de aislamientos"
+	},
+	{
+		"label": "Empresa de alquiler de gras",
+		"name": "empresa de alquiler de gras"
+	},
+	{
+		"label": "Empresa de andamiajes",
+		"name": "empresa de andamiajes"
+	},
+	{
+		"label": "Empresa de áridos",
+		"name": "empresa de aridos"
+	},
+	{
+		"label": "Empresa de armaduras y ferrallas",
+		"name": "empresa de armaduras y ferrallas"
+	},
+	{
+		"label": "Empresa de artes gráficas",
+		"name": "empresa de artes graficas"
+	},
+	{
+		"label": "Empresa de asfaltado",
+		"name": "empresa de asfaltado"
+	},
+	{
+		"label": "Empresa de azulejos y pavimentos cermicos",
+		"name": "empresa de azulejos y pavimentos cermicos"
+	},
+	{
+		"label": "Empresa de buzoneo",
+		"name": "empresa de buzoneo"
+	},
+	{
+		"label": "Empresa de cableado",
+		"name": "empresa de cableado"
+	},
+	{
+		"label": "Empresa de catering",
+		"name": "empresa de catering"
+	},
+	{
+		"label": "Empresa de chapado metálico",
+		"name": "empresa de chapado metalico"
+	},
+	{
+		"label": "Empresa de contenedores",
+		"name": "empresa de contenedores"
+	},
+	{
+		"label": "Empresa de desarrollo de software",
+		"name": "empresa de desarrollo de software"
+	},
+	{
+		"label": "Empresa de diseño gráfico",
+		"name": "empresa de diseño grafico"
+	},
+	{
+		"label": "Empresa de escayolas",
+		"name": "empresa de escayolas"
+	},
+	{
+		"label": "Empresa de excavaciones",
+		"name": "empresa de excavaciones"
+	},
+	{
+		"label": "Empresa de fumigación y control de plagas",
+		"name": "empresa de fumigacion y control de plagas"
+	},
+	{
+		"label": "Empresa de hierros y aceros",
+		"name": "empresa de hierros y aceros"
+	},
+	{
+		"label": "Empresa de limpieza",
+		"name": "empresa de limpieza"
+	},
+	{
+		"label": "Empresa de limpieza de playas",
+		"name": "empresa de limpieza de playas"
+	},
+	{
+		"label": "Empresa de maquinaria",
+		"name": "empresa de maquinaria"
+	},
+	{
+		"label": "Empresa de maquinaria agrícola",
+		"name": "empresa de maquinaria agricola"
+	},
+	{
+		"label": "Empresa de mármoles y granitos",
+		"name": "empresa de marmoles y granitos"
+	},
+	{
+		"label": "Empresa de mecanizado",
+		"name": "empresa de mecanizado"
+	},
+	{
+		"label": "Empresa de mensajera",
+		"name": "empresa de mensajera"
+	},
+	{
+		"label": "Empresa de moldeo por inyección de plástico",
+		"name": "empresa de moldeo por inyeccion de plastico"
+	},
+	{
+		"label": "Empresa de mudanzas",
+		"name": "empresa de mudanzas"
+	},
+	{
+		"label": "Empresa de paquetería",
+		"name": "empresa de paqueteria"
+	},
+	{
+		"label": "Empresa de pavimentos de hormigón",
+		"name": "empresa de pavimentos de hormigon"
+	},
+	{
+		"label": "Empresa de pulidos metálicos",
+		"name": "empresa de pulidos metalicos"
+	},
+	{
+		"label": "Empresa de recogida de escombros",
+		"name": "empresa de recogida de escombros"
+	},
+	{
+		"label": "Empresa de reformas",
+		"name": "empresa de reformas"
+	},
+	{
+		"label": "Empresa de seguridad electrónica",
+		"name": "empresa de seguridad electronica"
+	},
+	{
+		"label": "Empresa de seguridad informática",
+		"name": "empresa de seguridad informatica"
+	},
+	{
+		"label": "Empresa de seguridad y vigilancia",
+		"name": "empresa de seguridad y vigilancia"
+	},
+	{
+		"label": "Empresa de serigrafía y rotulación",
+		"name": "empresa de serigrafia y rotulacion"
+	},
+	{
+		"label": "Empresa de suministros industriales",
+		"name": "empresa de suministros industriales"
+	},
+	{
+		"label": "Empresa de topografía",
+		"name": "empresa de topografia"
+	},
+	{
+		"label": "Empresa de trabajo temporal",
+		"name": "empresa de trabajo temporal"
+	},
+	{
+		"label": "Empresa de tratamiento del agua",
+		"name": "empresa de tratamiento del agua"
+	},
+	{
+		"label": "Empresa envasadora de aceite",
+		"name": "empresa envasadora de aceite"
+	},
+	{
+		"label": "Empresa instaladora de gas",
+		"name": "empresa instaladora de gas"
+	},
+	{
+		"label": "Empresa maderera",
+		"name": "empresa maderera"
+	},
+	{
+		"label": "Empresa organizadora de bodas",
+		"name": "empresa organizadora de bodas"
+	},
+	{
+		"label": "Empresa organizadora de fiestas y eventos",
+		"name": "empresa organizadora de fiestas y eventos"
+	},
+	{
+		"label": "Empresa papelera",
+		"name": "empresa papelera"
+	},
+	{
+		"label": "Empresa proveedora de Internet",
+		"name": "empresa proveedora de internet"
+	},
+	{
+		"label": "Empresa suministradora de gas butano",
+		"name": "empresa suministradora de gas butano"
+	},
+	{
+		"label": "Endocrinólogo",
+		"name": "endocrinologo"
+	},
+	{
+		"label": "Entrenador personal",
+		"name": "entrenador personal"
+	},
+	{
+		"label": "Ermita",
+		"name": "ermita"
+	},
+	{
+		"label": "Escuela de aikido",
+		"name": "escuela de aikido"
+	},
+	{
+		"label": "Escuela de arte",
+		"name": "escuela de arte"
+	},
+	{
+		"label": "Escuela de arte dramático",
+		"name": "escuela de arte dramatico"
+	},
+	{
+		"label": "Escuela de artes marciales",
+		"name": "escuela de artes marciales"
+	},
+	{
+		"label": "Escuela de flamenco",
+		"name": "escuela de flamenco"
+	},
+	{
+		"label": "Escuela de hostelería",
+		"name": "escuela de hosteleria"
+	},
+	{
+		"label": "Escuela de judo",
+		"name": "escuela de judo"
+	},
+	{
+		"label": "Escuela de karate",
+		"name": "escuela de karate"
+	},
+	{
+		"label": "Escuela de música",
+		"name": "escuela de musica"
+	},
+	{
+		"label": "Escuela de negocios",
+		"name": "escuela de negocios"
+	},
+	{
+		"label": "Escuela de submarinismo",
+		"name": "escuela de submarinismo"
+	},
+	{
+		"label": "Escuela de surf",
+		"name": "escuela de surf"
+	},
+	{
+		"label": "Escuela de tai chi",
+		"name": "escuela de tai chi"
+	},
+	{
+		"label": "Escuela hípica",
+		"name": "escuela hipica"
+	},
+	{
+		"label": "Escuela infantil",
+		"name": "escuela infantil"
+	},
+	{
+		"label": "Escuela oficial de idiomas",
+		"name": "escuela oficial de idiomas"
+	},
+	{
+		"label": "Escuela técnica superior de Arquitectura",
+		"name": "escuela tecnica superior de arquitectura"
+	},
+	{
+		"label": "Escuela técnica superior de Telecomunicaciones",
+		"name": "escuela tecnica superior de telecomunicaciones"
+	},
+	{
+		"label": "Estación de autobuses",
+		"name": "estacion de autobuses"
+	},
+	{
+		"label": "Estación de cercanías",
+		"name": "estacion de cercanias"
+	},
+	{
+		"label": "Estación de esquí",
+		"name": "estacion de esqui"
+	},
+	{
+		"label": "Estación de tren",
+		"name": "estacion de tren"
+	},
+	{
+		"label": "Estación del AVE",
+		"name": "estacion del ave"
+	},
+	{
+		"label": "Estación marítima",
+		"name": "estacion maritima"
+	},
+	{
+		"label": "Estadio",
+		"name": "estadio"
+	},
+	{
+		"label": "Estanco",
+		"name": "estanco"
+	},
+	{
+		"label": "Estudio de arquitectura",
+		"name": "estudio de arquitectura"
+	},
+	{
+		"label": "Estudio de grabación",
+		"name": "estudio de grabacion"
+	},
+	{
+		"label": "Estudio de pintura artística",
+		"name": "estudio de pintura artistica"
+	},
+	{
+		"label": "Estudio de tatuajes",
+		"name": "estudio de tatuajes"
+	},
+	{
+		"label": "Estudio fotográfico",
+		"name": "estudio fotografico"
+	},
+	{
+		"label": "Fábrica de bolsas de papel",
+		"name": "fabrica de bolsas de papel"
+	},
+	{
+		"label": "Fábrica de bolsas de plástico",
+		"name": "fabrica de bolsas de plastico"
+	},
+	{
+		"label": "Fábrica de cerveza",
+		"name": "fabrica de cerveza"
+	},
+	{
+		"label": "Fábrica de confección de ropa deportiva",
+		"name": "fabrica de confeccion de ropa deportiva"
+	},
+	{
+		"label": "Fábrica de confección textil",
+		"name": "fabrica de confeccion textil"
+	},
+	{
+		"label": "Fábrica de conservas",
+		"name": "fabrica de conservas"
+	},
+	{
+		"label": "Fábrica de expositores",
+		"name": "fabrica de expositores"
+	},
+	{
+		"label": "Fábrica de hormigones",
+		"name": "fabrica de hormigones"
+	},
+	{
+		"label": "Fábrica de maquinaria agrícola",
+		"name": "fabrica de maquinaria agricola"
+	},
+	{
+		"label": "Fábrica de material eléctrico",
+		"name": "fabrica de material electrico"
+	},
+	{
+		"label": "Fábrica de muebles",
+		"name": "fabrica de muebles"
+	},
+	{
+		"label": "Fábrica de muelles",
+		"name": "fabrica de muelles"
+	},
+	{
+		"label": "Fábrica de papel y celulosas",
+		"name": "fabrica de papel y celulosas"
+	},
+	{
+		"label": "Fábrica de piensos",
+		"name": "fabrica de piensos"
+	},
+	{
+		"label": "Fábrica de plásticos",
+		"name": "fabrica de plasticos"
+	},
+	{
+		"label": "Fábrica de puertas",
+		"name": "fabrica de puertas"
+	},
+	{
+		"label": "Fábrica de zapatos",
+		"name": "fabrica de zapatos"
+	},
+	{
+		"label": "Fabricante de atracciones de feria",
+		"name": "fabricante de atracciones de feria"
+	},
+	{
+		"label": "Fabricante de casas de madera",
+		"name": "fabricante de casas de madera"
+	},
+	{
+		"label": "Fabricante de sierras",
+		"name": "fabricante de sierras"
+	},
+	{
+		"label": "Facultad de Bellas Artes",
+		"name": "facultad de bellas artes"
+	},
+	{
+		"label": "Facultad de Ciencias de la Actividad Física y del Deporte",
+		"name": "facultad de ciencias de la actividad fisica y del deporte"
+	},
+	{
+		"label": "Facultad de Ciencias Químicas",
+		"name": "facultad de ciencias quimicas"
+	},
+	{
+		"label": "Facultad de Comunicación y Documentación",
+		"name": "facultad de comunicacion y documentacion"
+	},
+	{
+		"label": "Facultad de Derecho",
+		"name": "facultad de derecho"
+	},
+	{
+		"label": "Facultad de Geografía e Historia",
+		"name": "facultad de geografia e historia"
+	},
+	{
+		"label": "Facultad de Psicología",
+		"name": "facultad de psicologia"
+	},
+	{
+		"label": "Facultad Politécnica",
+		"name": "facultad politecnica"
+	},
+	{
+		"label": "Farmacia",
+		"name": "farmacia"
+	},
+	{
+		"label": "Ferretería",
+		"name": "ferreteria"
+	},
+	{
+		"label": "Fisioterapeuta",
+		"name": "fisioterapeuta"
+	},
+	{
+		"label": "Floristería",
+		"name": "floristeria"
+	},
+	{
+		"label": "Fontanero",
+		"name": "fontanero"
+	},
+	{
+		"label": "Fotógrafo",
+		"name": "fotografo"
+	},
+	{
+		"label": "Frutería y verdulería",
+		"name": "fruteria y verduleria"
+	},
+	{
+		"label": "Funeraria",
+		"name": "funeraria"
+	},
+	{
+		"label": "Gabinete de psicología",
+		"name": "gabinete de psicologia"
+	},
+	{
+		"label": "Galera de arte",
+		"name": "galera de arte"
+	},
+	{
+		"label": "Garaje",
+		"name": "garaje"
+	},
+	{
+		"label": "Gasolinera",
+		"name": "gasolinera"
+	},
+	{
+		"label": "Gestoría",
+		"name": "gestoria"
+	},
+	{
+		"label": "Gimnasio",
+		"name": "gimnasio"
+	},
+	{
+		"label": "Ginecólogo",
+		"name": "ginecologo"
+	},
+	{
+		"label": "Gran hotel",
+		"name": "gran hotel"
+	},
+	{
+		"label": "Granja",
+		"name": "granja"
+	},
+	{
+		"label": "Granja avícola",
+		"name": "granja avicola"
+	},
+	{
+		"label": "Granja de ganado bovino",
+		"name": "granja de ganado bovino"
+	},
+	{
+		"label": "Granja de ganado porcino",
+		"name": "granja de ganado porcino"
+	},
+	{
+		"label": "Granja escuela",
+		"name": "granja escuela"
+	},
+	{
+		"label": "Grow shop",
+		"name": "grow shop"
+	},
+	{
+		"label": "Guardamuebles",
+		"name": "guardamuebles"
+	},
+	{
+		"label": "Guardería",
+		"name": "guarderia"
+	},
+	{
+		"label": "Guía turístico",
+		"name": "guia turistico"
+	},
+	{
+		"label": "Hamburguesería",
+		"name": "hamburgueseria"
+	},
+	{
+		"label": "Heladería",
+		"name": "heladeria"
+	},
+	{
+		"label": "Hematólogo",
+		"name": "hematologo"
+	},
+	{
+		"label": "Herbolario",
+		"name": "herbolario"
+	},
+	{
+		"label": "Herboristería",
+		"name": "herboristeria"
+	},
+	{
+		"label": "Hilandería",
+		"name": "hilanderia"
+	},
+	{
+		"label": "Hipermercado",
+		"name": "hipermercado"
+	},
+	{
+		"label": "Hipódromo",
+		"name": "hipodromo"
+	},
+	{
+		"label": "Hospital infantil",
+		"name": "hospital infantil"
+	},
+	{
+		"label": "Hospital militar",
+		"name": "hospital militar"
+	},
+	{
+		"label": "Hospital psiquiátrico",
+		"name": "hospital psiquiatrico"
+	},
+	{
+		"label": "Hospital universitario",
+		"name": "hospital universitario"
+	},
+	{
+		"label": "Hostal",
+		"name": "hostal"
+	},
+	{
+		"label": "Hotel",
+		"name": "hotel"
+	},
+	{
+		"label": "Hotel balneario",
+		"name": "hotel balneario"
+	},
+	{
+		"label": "Hotel cerca de aeropuerto",
+		"name": "hotel cerca de aeropuerto"
+	},
+	{
+		"label": "Hotel con encanto",
+		"name": "hotel con encanto"
+	},
+	{
+		"label": "Hotel de 2 estrellas",
+		"name": "hotel de 2 estrellas"
+	},
+	{
+		"label": "Hotel de 3 estrellas",
+		"name": "hotel de 3 estrellas"
+	},
+	{
+		"label": "Hotel de 4 estrellas",
+		"name": "hotel de 4 estrellas"
+	},
+	{
+		"label": "Hotel de 5 estrellas",
+		"name": "hotel de 5 estrellas"
+	},
+	{
+		"label": "Hotel en el centro",
+		"name": "hotel en el centro"
+	},
+	{
+		"label": "Hotel en la playa",
+		"name": "hotel en la playa"
+	},
+	{
+		"label": "Hotel rural",
+		"name": "hotel rural"
+	},
+	{
+		"label": "Iglesia",
+		"name": "iglesia"
+	},
+	{
+		"label": "Iglesia adventista del séptimo da",
+		"name": "iglesia adventista del septimo da"
+	},
+	{
+		"label": "Iglesia católica",
+		"name": "iglesia catolica"
+	},
+	{
+		"label": "Iglesia de los testigos de Jehová",
+		"name": "iglesia de los testigos de jehova"
+	},
+	{
+		"label": "Iglesia evangélica",
+		"name": "iglesia evangelica"
+	},
+	{
+		"label": "Iglesia ortodoxa",
+		"name": "iglesia ortodoxa"
+	},
+	{
+		"label": "Ilusionista",
+		"name": "ilusionista"
+	},
+	{
+		"label": "Imprenta",
+		"name": "imprenta"
+	},
+	{
+		"label": "Ingeniero agrónomo",
+		"name": "ingeniero agronomo"
+	},
+	{
+		"label": "Ingeniero civil",
+		"name": "ingeniero civil"
+	},
+	{
+		"label": "Ingeniero de minas",
+		"name": "ingeniero de minas"
+	},
+	{
+		"label": "Ingeniero de telecomunicación",
+		"name": "ingeniero de telecomunicacion"
+	},
+	{
+		"label": "Ingeniero industrial",
+		"name": "ingeniero industrial"
+	},
+	{
+		"label": "Ingeniero químico",
+		"name": "ingeniero quimico"
+	},
+	{
+		"label": "Ingeniero técnico industrial",
+		"name": "ingeniero tecnico industrial"
+	},
+	{
+		"label": "Inspección técnica de vehículos",
+		"name": "inspeccion tecnica de vehiculos"
+	},
+	{
+		"label": "Instalación de aire acondicionado",
+		"name": "instalacion de aire acondicionado"
+	},
+	{
+		"label": "Instalación de alarmas para vehículo",
+		"name": "instalacion de alarmas para vehiculo"
+	},
+	{
+		"label": "Instalación de antenas",
+		"name": "instalacion de antenas"
+	},
+	{
+		"label": "Instalación de calefacción",
+		"name": "instalacion de calefaccion"
+	},
+	{
+		"label": "Instalación de cubiertas",
+		"name": "instalacion de cubiertas"
+	},
+	{
+		"label": "Instalación de equipos de energía solar",
+		"name": "instalacion de equipos de energia solar"
+	},
+	{
+		"label": "Instalación de escaleras",
+		"name": "instalacion de escaleras"
+	},
+	{
+		"label": "Instalación de moqueta",
+		"name": "instalacion de moqueta"
+	},
+	{
+		"label": "Instalación de parqué",
+		"name": "instalacion de parque"
+	},
+	{
+		"label": "Instalación de persianas",
+		"name": "instalacion de persianas"
+	},
+	{
+		"label": "Instalación de puertas",
+		"name": "instalacion de puertas"
+	},
+	{
+		"label": "Instalación de toldos",
+		"name": "instalacion de toldos"
+	},
+	{
+		"label": "Instalación de tuberías",
+		"name": "instalacion de tuberias"
+	},
+	{
+		"label": "Instalación y mantenimiento de ascensores",
+		"name": "instalacion y mantenimiento de ascensores"
+	},
+	{
+		"label": "Instituto de enseñanza secundaria",
+		"name": "instituto de enseñanza secundaria"
+	},
+	{
+		"label": "Instructor de esquí",
+		"name": "instructor de esqui"
+	},
+	{
+		"label": "Internista",
+		"name": "internista"
+	},
+	{
+		"label": "Jamonería",
+		"name": "jamoneria"
+	},
+	{
+		"label": "Jardín botánico",
+		"name": "jardin botanico"
+	},
+	{
+		"label": "Jardinero",
+		"name": "jardinero"
+	},
+	{
+		"label": "Jefatura de Tráfico",
+		"name": "jefatura de trafico"
+	},
+	{
+		"label": "Joyera",
+		"name": "joyera"
+	},
+	{
+		"label": "Juguetería",
+		"name": "jugueteria"
+	},
+	{
+		"label": "Junta municipal de distrito",
+		"name": "junta municipal de distrito"
+	},
+	{
+		"label": "Juzgado de guardia",
+		"name": "juzgado de guardia"
+	},
+	{
+		"label": "Juzgado de lo contencioso-administrativo",
+		"name": "juzgado de lo contencioso-administrativo"
+	},
+	{
+		"label": "Juzgado de lo penal",
+		"name": "juzgado de lo penal"
+	},
+	{
+		"label": "Juzgado de lo social",
+		"name": "juzgado de lo social"
+	},
+	{
+		"label": "Juzgado de menores",
+		"name": "juzgado de menores"
+	},
+	{
+		"label": "Juzgado de paz",
+		"name": "juzgado de paz"
+	},
+	{
+		"label": "Juzgado de primera instancia e instrucción",
+		"name": "juzgado de primera instancia e instruccion"
+	},
+	{
+		"label": "Juzgado mercantil",
+		"name": "juzgado mercantil"
+	},
+	{
+		"label": "Karaoke",
+		"name": "karaoke"
+	},
+	{
+		"label": "Kiosco de prensa",
+		"name": "kiosco de prensa"
+	},
+	{
+		"label": "Laboratorio",
+		"name": "laboratorio"
+	},
+	{
+		"label": "Laboratorio de análisis clínicos",
+		"name": "laboratorio de analisis clinicos"
+	},
+	{
+		"label": "Laboratorio dental",
+		"name": "laboratorio dental"
+	},
+	{
+		"label": "Laboratorio farmacéutico",
+		"name": "laboratorio farmaceutico"
+	},
+	{
+		"label": "Laboratorio fotográfico",
+		"name": "laboratorio fotografico"
+	},
+	{
+		"label": "Laboratorio químico",
+		"name": "laboratorio quimico"
+	},
+	{
+		"label": "Laboratorio veterinario",
+		"name": "laboratorio veterinario"
+	},
+	{
+		"label": "Lagunas y Pantanos",
+		"name": "lagunas y pantanos"
+	},
+	{
+		"label": "Lavandería",
+		"name": "lavanderia"
+	},
+	{
+		"label": "Librera especializada en libros raros y antiguos",
+		"name": "librera especializada en libros raros y antiguos"
+	},
+	{
+		"label": "Librería",
+		"name": "libreria"
+	},
+	{
+		"label": "Librería especializada en arquitectura",
+		"name": "libreria especializada en arquitectura"
+	},
+	{
+		"label": "Librería especializada en deportes",
+		"name": "libreria especializada en deportes"
+	},
+	{
+		"label": "Librería especializada en derecho",
+		"name": "libreria especializada en derecho"
+	},
+	{
+		"label": "Librería especializada en esoterismo",
+		"name": "libreria especializada en esoterismo"
+	},
+	{
+		"label": "Librería especializada en gastronomía",
+		"name": "libreria especializada en gastronomia"
+	},
+	{
+		"label": "Librería especializada en historia y ciencias sociales",
+		"name": "libreria especializada en historia y ciencias sociales"
+	},
+	{
+		"label": "Librería especializada en lengua inglesa",
+		"name": "libreria especializada en lengua inglesa"
+	},
+	{
+		"label": "Librería especializada en medicina",
+		"name": "libreria especializada en medicina"
+	},
+	{
+		"label": "Librería especializada en música",
+		"name": "libreria especializada en musica"
+	},
+	{
+		"label": "Librería especializada en temática homosexual",
+		"name": "libreria especializada en tematica homosexual"
+	},
+	{
+		"label": "Libreria especializada en temática religiosa",
+		"name": "libreria especializada en tematica religiosa"
+	},
+	{
+		"label": "Librería especializada en viajes y turismo",
+		"name": "libreria especializada en viajes y turismo"
+	},
+	{
+		"label": "Librería infantil",
+		"name": "libreria infantil"
+	},
+	{
+		"label": "Librería técnica",
+		"name": "libreria tecnica"
+	},
+	{
+		"label": "Licorería",
+		"name": "licoreria"
+	},
+	{
+		"label": "Línea aérea",
+		"name": "linea aerea"
+	},
+	{
+		"label": "Local de ambiente",
+		"name": "local de ambiente"
+	},
+	{
+		"label": "Local de kebab",
+		"name": "local de kebab"
+	},
+	{
+		"label": "Locutorio",
+		"name": "locutorio"
+	},
+	{
+		"label": "Logopeda",
+		"name": "logopeda"
+	},
+	{
+		"label": "Lonja",
+		"name": "lonja"
+	},
+	{
+		"label": "Ludoteca",
+		"name": "ludoteca"
+	},
+	{
+		"label": "Maquinaria para metalurgia",
+		"name": "maquinaria para metalurgia"
+	},
+	{
+		"label": "Marisquería",
+		"name": "marisqueria"
+	},
+	{
+		"label": "Marroquinera",
+		"name": "marroquinera"
+	},
+	{
+		"label": "Masaje shiatsu",
+		"name": "masaje shiatsu"
+	},
+	{
+		"label": "Masaje tailandés",
+		"name": "masaje tailandes"
+	},
+	{
+		"label": "Masajista",
+		"name": "masajista"
+	},
+	{
+		"label": "Matadero",
+		"name": "matadero"
+	},
+	{
+		"label": "Mayorista de flores y plantas",
+		"name": "mayorista de flores y plantas"
+	},
+	{
+		"label": "Mayorista de frutas y hortalizas",
+		"name": "mayorista de frutas y hortalizas"
+	},
+	{
+		"label": "Mayorista de muebles",
+		"name": "mayorista de muebles"
+	},
+	{
+		"label": "Mayorista de pieles",
+		"name": "mayorista de pieles"
+	},
+	{
+		"label": "Mayorista de telas",
+		"name": "mayorista de telas"
+	},
+	{
+		"label": "Médico  de medicina deportiva",
+		"name": "medico  de medicina deportiva"
+	},
+	{
+		"label": "Médico de familia",
+		"name": "medico de familia"
+	},
+	{
+		"label": "Médico forense",
+		"name": "medico forense"
+	},
+	{
+		"label": "Mercadillo",
+		"name": "mercadillo"
+	},
+	{
+		"label": "Mercado de abastos",
+		"name": "mercado de abastos"
+	},
+	{
+		"label": "Mercería",
+		"name": "merceria"
+	},
+	{
+		"label": "Mesón",
+		"name": "meson"
+	},
+	{
+		"label": "Metro",
+		"name": "metro"
+	},
+	{
+		"label": "Metro ligero",
+		"name": "metro ligero"
+	},
+	{
+		"label": "Mezquita",
+		"name": "mezquita"
+	},
+	{
+		"label": "Modista",
+		"name": "modista"
+	},
+	{
+		"label": "Molino",
+		"name": "molino"
+	},
+	{
+		"label": "Monasterio",
+		"name": "monasterio"
+	},
+	{
+		"label": "Monumento",
+		"name": "monumento"
+	},
+	{
+		"label": "Motel",
+		"name": "motel"
+	},
+	{
+		"label": "Museo",
+		"name": "museo"
+	},
+	{
+		"label": "Museo arqueológico",
+		"name": "museo arqueologico"
+	},
+	{
+		"label": "Museo de arte moderno",
+		"name": "museo de arte moderno"
+	},
+	{
+		"label": "Museo de bellas artes",
+		"name": "museo de bellas artes"
+	},
+	{
+		"label": "Museo de ciencia y tecnología",
+		"name": "museo de ciencia y tecnologia"
+	},
+	{
+		"label": "Museo de historia",
+		"name": "museo de historia"
+	},
+	{
+		"label": "Museo de historia natural",
+		"name": "museo de historia natural"
+	},
+	{
+		"label": "Museo etnográfico",
+		"name": "museo etnografico"
+	},
+	{
+		"label": "Mutua aseguradora",
+		"name": "mutua aseguradora"
+	},
+	{
+		"label": "Neurólogo",
+		"name": "neurologo"
+	},
+	{
+		"label": "Notaría",
+		"name": "notaria"
+	},
+	{
+		"label": "Nutricionista",
+		"name": "nutricionista"
+	},
+	{
+		"label": "Oficina de atención al consumidor",
+		"name": "oficina de atencion al consumidor"
+	},
+	{
+		"label": "Oficina de cambio de divisas",
+		"name": "oficina de cambio de divisas"
+	},
+	{
+		"label": "Oficina de correos",
+		"name": "oficina de correos"
+	},
+	{
+		"label": "Oficina de extranjera",
+		"name": "oficina de extranjera"
+	},
+	{
+		"label": "Oficina de información al ciudadano",
+		"name": "oficina de informacion al ciudadano"
+	},
+	{
+		"label": "Oficina de la Seguridad Social",
+		"name": "oficina de la seguridad social"
+	},
+	{
+		"label": "Oficina de turismo",
+		"name": "oficina de turismo"
+	},
+	{
+		"label": "Oficina pública de empleo",
+		"name": "oficina publica de empleo"
+	},
+	{
+		"label": "Oftalmlogo",
+		"name": "oftalmlogo"
+	},
+	{
+		"label": "Óptica",
+		"name": "optica"
+	},
+	{
+		"label": "Organización de servicios sociales",
+		"name": "organizacion de servicios sociales"
+	},
+	{
+		"label": "Organización no gubernamental (ONG)",
+		"name": "organizacion no gubernamental (ong)"
+	},
+	{
+		"label": "Orquesta",
+		"name": "orquesta"
+	},
+	{
+		"label": "Ortopedia",
+		"name": "ortopedia"
+	},
+	{
+		"label": "Otorrinolaringólogo",
+		"name": "otorrinolaringologo"
+	},
+	{
+		"label": "Outlet",
+		"name": "outlet"
+	},
+	{
+		"label": "Paintball",
+		"name": "paintball"
+	},
+	{
+		"label": "Pajarera",
+		"name": "pajarera"
+	},
+	{
+		"label": "Palacio de congresos",
+		"name": "palacio de congresos"
+	},
+	{
+		"label": "Palacio de Justicia",
+		"name": "palacio de justicia"
+	},
+	{
+		"label": "Panadera",
+		"name": "panadera"
+	},
+	{
+		"label": "Papelera",
+		"name": "papelera"
+	},
+	{
+		"label": "Parada de tranvía",
+		"name": "parada de tranvia"
+	},
+	{
+		"label": "Parador",
+		"name": "parador"
+	},
+	{
+		"label": "Parafarmacia",
+		"name": "parafarmacia"
+	},
+	{
+		"label": "Parking",
+		"name": "parking"
+	},
+	{
+		"label": "Parking de coche compartido",
+		"name": "parking de coche compartido"
+	},
+	{
+		"label": "Parque",
+		"name": "parque"
+	},
+	{
+		"label": "Parque acuático",
+		"name": "parque acuatico"
+	},
+	{
+		"label": "Parque de atracciones",
+		"name": "parque de atracciones"
+	},
+	{
+		"label": "Parque de bomberos",
+		"name": "parque de bomberos"
+	},
+	{
+		"label": "Parque natural",
+		"name": "parque natural"
+	},
+	{
+		"label": "Parque safari",
+		"name": "parque safari"
+	},
+	{
+		"label": "Parque tecnológico",
+		"name": "parque tecnologico"
+	},
+	{
+		"label": "Parroquia",
+		"name": "parroquia"
+	},
+	{
+		"label": "Partido político",
+		"name": "partido politico"
+	},
+	{
+		"label": "Pastelería",
+		"name": "pasteleria"
+	},
+	{
+		"label": "Pediatra",
+		"name": "pediatra"
+	},
+	{
+		"label": "Peletería",
+		"name": "peleteria"
+	},
+	{
+		"label": "Peluquera",
+		"name": "peluquera"
+	},
+	{
+		"label": "Peluquería canina",
+		"name": "peluqueria canina"
+	},
+	{
+		"label": "Peluquero a domicilio",
+		"name": "peluquero a domicilio"
+	},
+	{
+		"label": "Pensión",
+		"name": "pension"
+	},
+	{
+		"label": "Perfumería",
+		"name": "perfumeria"
+	},
+	{
+		"label": "Periódico",
+		"name": "periodico"
+	},
+	{
+		"label": "Perrera",
+		"name": "perrera"
+	},
+	{
+		"label": "Pescadería",
+		"name": "pescaderia"
+	},
+	{
+		"label": "Pintor",
+		"name": "pintor"
+	},
+	{
+		"label": "Pirotecnia",
+		"name": "pirotecnia"
+	},
+	{
+		"label": "Piscifactoría",
+		"name": "piscifactoria"
+	},
+	{
+		"label": "Piscina",
+		"name": "piscina"
+	},
+	{
+		"label": "Piscina pública",
+		"name": "piscina publica"
+	},
+	{
+		"label": "Pista de atletismo",
+		"name": "pista de atletismo"
+	},
+	{
+		"label": "Pista de karts",
+		"name": "pista de karts"
+	},
+	{
+		"label": "Pista de pádel",
+		"name": "pista de padel"
+	},
+	{
+		"label": "Pista de patinaje sobre hielo",
+		"name": "pista de patinaje sobre hielo"
+	},
+	{
+		"label": "Pista de patinaje sobre ruedas",
+		"name": "pista de patinaje sobre ruedas"
+	},
+	{
+		"label": "Pista de skate",
+		"name": "pista de skate"
+	},
+	{
+		"label": "Pista de squash",
+		"name": "pista de squash"
+	},
+	{
+		"label": "Pista de tenis",
+		"name": "pista de tenis"
+	},
+	{
+		"label": "Pizzería",
+		"name": "pizzeria"
+	},
+	{
+		"label": "Pizzería a domicilio",
+		"name": "pizzeria a domicilio"
+	},
+	{
+		"label": "Planta de reciclaje de papel y cartón",
+		"name": "planta de reciclaje de papel y carton"
+	},
+	{
+		"label": "Planta de reciclaje de plásticos",
+		"name": "planta de reciclaje de plasticos"
+	},
+	{
+		"label": "Planta depuradora de agua",
+		"name": "planta depuradora de agua"
+	},
+	{
+		"label": "Planta desaladora",
+		"name": "planta desaladora"
+	},
+	{
+		"label": "Playa",
+		"name": "playa"
+	},
+	{
+		"label": "Playa nudista",
+		"name": "playa nudista"
+	},
+	{
+		"label": "Plaza de toros",
+		"name": "plaza de toros"
+	},
+	{
+		"label": "Polideportivo",
+		"name": "polideportivo"
+	},
+	{
+		"label": "Polígono industrial",
+		"name": "poligono industrial"
+	},
+	{
+		"label": "Pollería",
+		"name": "polleria"
+	},
+	{
+		"label": "Posada",
+		"name": "posada"
+	},
+	{
+		"label": "Productora de cine",
+		"name": "productora de cine"
+	},
+	{
+		"label": "Productora de teatro",
+		"name": "productora de teatro"
+	},
+	{
+		"label": "Productora de televisión",
+		"name": "productora de television"
+	},
+	{
+		"label": "Productora de vídeo",
+		"name": "productora de video"
+	},
+	{
+		"label": "Productora discográfica",
+		"name": "productora discografica"
+	},
+	{
+		"label": "Profesor de guitarra",
+		"name": "profesor de guitarra"
+	},
+	{
+		"label": "Proveedor de servicios de telecomunicación",
+		"name": "proveedor de servicios de telecomunicacion"
+	},
+	{
+		"label": "Psiquiatra",
+		"name": "psiquiatra"
+	},
+	{
+		"label": "Pub",
+		"name": "pub"
+	},
+	{
+		"label": "Puerto deportivo",
+		"name": "puerto deportivo"
+	},
+	{
+		"label": "Punto Wi-Fi",
+		"name": "punto wi-fi"
+	},
+	{
+		"label": "Quesera",
+		"name": "quesera"
+	},
+	{
+		"label": "Quiromasaje",
+		"name": "quiromasaje"
+	},
+	{
+		"label": "Recinto ferial",
+		"name": "recinto ferial"
+	},
+	{
+		"label": "Refinería",
+		"name": "refineria"
+	},
+	{
+		"label": "Reflexología",
+		"name": "reflexologia"
+	},
+	{
+		"label": "Registro civil",
+		"name": "registro civil"
+	},
+	{
+		"label": "Registro de bienes inmuebles",
+		"name": "registro de bienes inmuebles"
+	},
+	{
+		"label": "Registro de la propiedad",
+		"name": "registro de la propiedad"
+	},
+	{
+		"label": "Registro de la propiedad intelectual",
+		"name": "registro de la propiedad intelectual"
+	},
+	{
+		"label": "Registro mercantil",
+		"name": "registro mercantil"
+	},
+	{
+		"label": "Relojera",
+		"name": "relojera"
+	},
+	{
+		"label": "Reparto a domicilio",
+		"name": "reparto a domicilio"
+	},
+	{
+		"label": "Representante comercial",
+		"name": "representante comercial"
+	},
+	{
+		"label": "Residencia",
+		"name": "residencia"
+	},
+	{
+		"label": "Residencia canina",
+		"name": "residencia canina"
+	},
+	{
+		"label": "Residencia de ancianos",
+		"name": "residencia de ancianos"
+	},
+	{
+		"label": "Residencia de estudiantes",
+		"name": "residencia de estudiantes"
+	},
+	{
+		"label": "Residencia militar",
+		"name": "residencia militar"
+	},
+	{
+		"label": "Restaurante",
+		"name": "restaurante"
+	},
+	{
+		"label": "Restaurante alemán",
+		"name": "restaurante aleman"
+	},
+	{
+		"label": "Restaurante andaluz",
+		"name": "restaurante andaluz"
+	},
+	{
+		"label": "Restaurante argentino",
+		"name": "restaurante argentino"
+	},
+	{
+		"label": "Restaurante asturiano",
+		"name": "restaurante asturiano"
+	},
+	{
+		"label": "Restaurante brasileño",
+		"name": "restaurante brasileño"
+	},
+	{
+		"label": "Restaurante castellano",
+		"name": "restaurante castellano"
+	},
+	{
+		"label": "Restaurante catalán",
+		"name": "restaurante catalan"
+	},
+	{
+		"label": "Restaurante chino",
+		"name": "restaurante chino"
+	},
+	{
+		"label": "Restaurante cubano",
+		"name": "restaurante cubano"
+	},
+	{
+		"label": "Restaurante de cocina creativa",
+		"name": "restaurante de cocina creativa"
+	},
+	{
+		"label": "Restaurante de cocina de mercado",
+		"name": "restaurante de cocina de mercado"
+	},
+	{
+		"label": "Restaurante de cocina española",
+		"name": "restaurante de cocina española"
+	},
+	{
+		"label": "Restaurante de cocina mediterránea",
+		"name": "restaurante de cocina mediterranea"
+	},
+	{
+		"label": "Restaurante de cocina norteamericana",
+		"name": "restaurante de cocina norteamericana"
+	},
+	{
+		"label": "Restaurante de comida casera",
+		"name": "restaurante de comida casera"
+	},
+	{
+		"label": "Restaurante de comida rápida",
+		"name": "restaurante de comida rapida"
+	},
+	{
+		"label": "Restaurante de lujo",
+		"name": "restaurante de lujo"
+	},
+	{
+		"label": "Restaurante extremeño",
+		"name": "restaurante extremeño"
+	},
+	{
+		"label": "Restaurante francés",
+		"name": "restaurante frances"
+	},
+	{
+		"label": "Restaurante gallego",
+		"name": "restaurante gallego"
+	},
+	{
+		"label": "Restaurante griego",
+		"name": "restaurante griego"
+	},
+	{
+		"label": "Restaurante hindú",
+		"name": "restaurante hindu"
+	},
+	{
+		"label": "Restaurante italiano",
+		"name": "restaurante italiano"
+	},
+	{
+		"label": "Restaurante japonés",
+		"name": "restaurante japones"
+	},
+	{
+		"label": "Restaurante mallorquín",
+		"name": "restaurante mallorquin"
+	},
+	{
+		"label": "Restaurante marroquí",
+		"name": "restaurante marroqui"
+	},
+	{
+		"label": "Restaurante mexicano",
+		"name": "restaurante mexicano"
+	},
+	{
+		"label": "Restaurante portugués",
+		"name": "restaurante portugues"
+	},
+	{
+		"label": "Restaurante tailandés",
+		"name": "restaurante tailandes"
+	},
+	{
+		"label": "Restaurante vasco",
+		"name": "restaurante vasco"
+	},
+	{
+		"label": "Restaurante vegetariano",
+		"name": "restaurante vegetariano"
+	},
+	{
+		"label": "Sala de billares",
+		"name": "sala de billares"
+	},
+	{
+		"label": "Sala de cine",
+		"name": "sala de cine"
+	},
+	{
+		"label": "Sala de conciertos",
+		"name": "sala de conciertos"
+	},
+	{
+		"label": "Salón de celebraciones",
+		"name": "salon de celebraciones"
+	},
+	{
+		"label": "Salón de manicura",
+		"name": "salon de manicura"
+	},
+	{
+		"label": "Santuario",
+		"name": "santuario"
+	},
+	{
+		"label": "Sauna",
+		"name": "sauna"
+	},
+	{
+		"label": "Secadero de jamones",
+		"name": "secadero de jamones"
+	},
+	{
+		"label": "Seminario religioso",
+		"name": "seminario religioso"
+	},
+	{
+		"label": "Servicio de acompañamiento femenino",
+		"name": "servicio de acompañamiento femenino"
+	},
+	{
+		"label": "Servicio de acompañamiento masculino",
+		"name": "servicio de acompañamiento masculino"
+	},
+	{
+		"label": "Servicio de cartografía",
+		"name": "servicio de cartografia"
+	},
+	{
+		"label": "Servicio de estampación metálica",
+		"name": "servicio de estampacion metalica"
+	},
+	{
+		"label": "Servicio de ferry",
+		"name": "servicio de ferry"
+	},
+	{
+		"label": "Servicio de grúa",
+		"name": "servicio de grua"
+	},
+	{
+		"label": "Servicio de lavado de automóvil",
+		"name": "servicio de lavado de automovil"
+	},
+	{
+		"label": "Servicio de limpieza",
+		"name": "servicio de limpieza"
+	},
+	{
+		"label": "Servicio de limpieza de tapicerías",
+		"name": "servicio de limpieza de tapicerias"
+	},
+	{
+		"label": "Servicio de limpieza doméstica",
+		"name": "servicio de limpieza domestica"
+	},
+	{
+		"label": "Servicio de mantenimiento de piscinas",
+		"name": "servicio de mantenimiento de piscinas"
+	},
+	{
+		"label": "Servicio de reparación de electrodomésticos",
+		"name": "servicio de reparacion de electrodomesticos"
+	},
+	{
+		"label": "Servicio de reparación de ordenadores",
+		"name": "servicio de reparacion de ordenadores"
+	},
+	{
+		"label": "Servicio de seguridad contra incendios",
+		"name": "servicio de seguridad contra incendios"
+	},
+	{
+		"label": "Servicio de telemarketing",
+		"name": "servicio de telemarketing"
+	},
+	{
+		"label": "Servicio técnico",
+		"name": "servicio tecnico"
+	},
+	{
+		"label": "Servicios de documentación",
+		"name": "servicios de documentacion"
+	},
+	{
+		"label": "Servicios gubernamentales",
+		"name": "servicios gubernamentales"
+	},
+	{
+		"label": "Servicios médicos",
+		"name": "servicios medicos"
+	},
+	{
+		"label": "Servicios público",
+		"name": "servicios publico"
+	},
+	{
+		"label": "Sex shop",
+		"name": "sex shop"
+	},
+	{
+		"label": "Sidrería",
+		"name": "sidreria"
+	},
+	{
+		"label": "Sinagoga",
+		"name": "sinagoga"
+	},
+	{
+		"label": "Sombrerera",
+		"name": "sombrerera"
+	},
+	{
+		"label": "Suministros de fontanería",
+		"name": "suministros de fontaneria"
+	},
+	{
+		"label": "Supermercado",
+		"name": "supermercado"
+	},
+	{
+		"label": "Taberna",
+		"name": "taberna"
+	},
+	{
+		"label": "Tablao flamenco",
+		"name": "tablao flamenco"
+	},
+	{
+		"label": "Taller de chapa y pintura",
+		"name": "taller de chapa y pintura"
+	},
+	{
+		"label": "Taller de encuadernación",
+		"name": "taller de encuadernacion"
+	},
+	{
+		"label": "Taller de reparación de automóvil",
+		"name": "taller de reparacion de automovil"
+	},
+	{
+		"label": "Taller de reparación de bicicletas",
+		"name": "taller de reparacion de bicicletas"
+	},
+	{
+		"label": "Taller de reparación de equipos de sonido y video",
+		"name": "taller de reparacion de equipos de sonido y video"
+	},
+	{
+		"label": "Taller de reparación de maquinaria",
+		"name": "taller de reparacion de maquinaria"
+	},
+	{
+		"label": "Taller de reparación de motos",
+		"name": "taller de reparacion de motos"
+	},
+	{
+		"label": "Taller de restauración artística",
+		"name": "taller de restauracion artistica"
+	},
+	{
+		"label": "Taller de tuning",
+		"name": "taller de tuning"
+	},
+	{
+		"label": "Tanatorio",
+		"name": "tanatorio"
+	},
+	{
+		"label": "Tapicera",
+		"name": "tapicera"
+	},
+	{
+		"label": "Taxi",
+		"name": "taxi"
+	},
+	{
+		"label": "Teatro",
+		"name": "teatro"
+	},
+	{
+		"label": "Tejeduría",
+		"name": "tejeduria"
+	},
+	{
+		"label": "Terapeuta de reiki",
+		"name": "terapeuta de reiki"
+	},
+	{
+		"label": "Tesorería General de la Seguridad Social",
+		"name": "tesoreria general de la seguridad social"
+	},
+	{
+		"label": "Tienda 24 horas",
+		"name": "tienda 24 horas"
+	},
+	{
+		"label": "Tienda de acuarios",
+		"name": "tienda de acuarios"
+	},
+	{
+		"label": "Tienda de alta costura",
+		"name": "tienda de alta costura"
+	},
+	{
+		"label": "Tienda de animales",
+		"name": "tienda de animales"
+	},
+	{
+		"label": "Tienda de antigüedades",
+		"name": "tienda de antigüedades"
+	},
+	{
+		"label": "Tienda de armarios",
+		"name": "tienda de armarios"
+	},
+	{
+		"label": "Tienda de arreglos de ropa",
+		"name": "tienda de arreglos de ropa"
+	},
+	{
+		"label": "Tienda de artesana",
+		"name": "tienda de artesana"
+	},
+	{
+		"label": "Tienda de artículos de caza",
+		"name": "tienda de articulos de caza"
+	},
+	{
+		"label": "Tienda de artículos de danza y gimnasia",
+		"name": "tienda de articulos de danza y gimnasia"
+	},
+	{
+		"label": "Tienda de artículos de fiesta",
+		"name": "tienda de articulos de fiesta"
+	},
+	{
+		"label": "Tienda de artículos de flamenco",
+		"name": "tienda de articulos de flamenco"
+	},
+	{
+		"label": "Tienda de artículos de fútbol",
+		"name": "tienda de articulos de futbol"
+	},
+	{
+		"label": "Tienda de artículos de golf",
+		"name": "tienda de articulos de golf"
+	},
+	{
+		"label": "Tienda de artículos de hípica",
+		"name": "tienda de articulos de hipica"
+	},
+	{
+		"label": "Tienda de artículos de natación",
+		"name": "tienda de articulos de natacion"
+	},
+	{
+		"label": "Tienda de artículos de pesca",
+		"name": "tienda de articulos de pesca"
+	},
+	{
+		"label": "Tienda de artículos de segunda mano",
+		"name": "tienda de articulos de segunda mano"
+	},
+	{
+		"label": "Tienda de artículos premamá y de bebé",
+		"name": "tienda de articulos premama y de bebe"
+	},
+	{
+		"label": "Tienda de bicicletas",
+		"name": "tienda de bicicletas"
+	},
+	{
+		"label": "Tienda de bisutería y complementos",
+		"name": "tienda de bisuteria y complementos"
+	},
+	{
+		"label": "Tienda de bolsos",
+		"name": "tienda de bolsos"
+	},
+	{
+		"label": "Tienda de bricolaje",
+		"name": "tienda de bricolaje"
+	},
+	{
+		"label": "Tienda de calderas",
+		"name": "tienda de calderas"
+	},
+	{
+		"label": "Tienda de cerámica",
+		"name": "tienda de ceramica"
+	},
+	{
+		"label": "Tienda de chimeneas",
+		"name": "tienda de chimeneas"
+	},
+	{
+		"label": "Tienda de cómics",
+		"name": "tienda de comics"
+	},
+	{
+		"label": "Tienda de componentes electrónicos",
+		"name": "tienda de componentes electronicos"
+	},
+	{
+		"label": "Tienda de congelados",
+		"name": "tienda de congelados"
+	},
+	{
+		"label": "Tienda de cortinas",
+		"name": "tienda de cortinas"
+	},
+	{
+		"label": "Tienda de cuadros y láminas",
+		"name": "tienda de cuadros y laminas"
+	},
+	{
+		"label": "Tienda de decoración",
+		"name": "tienda de decoracion"
+	},
+	{
+		"label": "Tienda de delicatessen",
+		"name": "tienda de delicatessen"
+	},
+	{
+		"label": "Tienda de deportes",
+		"name": "tienda de deportes"
+	},
+	{
+		"label": "Tienda de discos",
+		"name": "tienda de discos"
+	},
+	{
+		"label": "Tienda de disfraces",
+		"name": "tienda de disfraces"
+	},
+	{
+		"label": "Tienda de electrodomésticos",
+		"name": "tienda de electrodomesticos"
+	},
+	{
+		"label": "Tienda de electrónica",
+		"name": "tienda de electronica"
+	},
+	{
+		"label": "Tienda de enmarcación",
+		"name": "tienda de enmarcacion"
+	},
+	{
+		"label": "Tienda de equipos de sonido",
+		"name": "tienda de equipos de sonido"
+	},
+	{
+		"label": "Tienda de esquí",
+		"name": "tienda de esqui"
+	},
+	{
+		"label": "Tienda de estampación",
+		"name": "tienda de estampacion"
+	},
+	{
+		"label": "Tienda de fotografía",
+		"name": "tienda de fotografia"
+	},
+	{
+		"label": "Tienda de golosinas",
+		"name": "tienda de golosinas"
+	},
+	{
+		"label": "Tienda de guitarras",
+		"name": "tienda de guitarras"
+	},
+	{
+		"label": "Tienda de iluminación",
+		"name": "tienda de iluminacion"
+	},
+	{
+		"label": "Tienda de impresión digital",
+		"name": "tienda de impresion digital"
+	},
+	{
+		"label": "Tienda de informática",
+		"name": "tienda de informatica"
+	},
+	{
+		"label": "Tienda de instrumentos musicales",
+		"name": "tienda de instrumentos musicales"
+	},
+	{
+		"label": "Tienda de lanas",
+		"name": "tienda de lanas"
+	},
+	{
+		"label": "Tienda de lencería",
+		"name": "tienda de lenceria"
+	},
+	{
+		"label": "Tienda de libros de segunda mano",
+		"name": "tienda de libros de segunda mano"
+	},
+	{
+		"label": "Tienda de magia",
+		"name": "tienda de magia"
+	},
+	{
+		"label": "Tienda de manualidades y bellas artes",
+		"name": "tienda de manualidades y bellas artes"
+	},
+	{
+		"label": "Tienda de materiales de saneamiento",
+		"name": "tienda de materiales de saneamiento"
+	},
+	{
+		"label": "Tienda de menaje de cocina",
+		"name": "tienda de menaje de cocina"
+	},
+	{
+		"label": "Tienda de moda joven",
+		"name": "tienda de moda joven"
+	},
+	{
+		"label": "Tienda de modelismo",
+		"name": "tienda de modelismo"
+	},
+	{
+		"label": "Tienda de muebles",
+		"name": "tienda de muebles"
+	},
+	{
+		"label": "Tienda de muebles de cocina",
+		"name": "tienda de muebles de cocina"
+	},
+	{
+		"label": "Tienda de muebles de exterior",
+		"name": "tienda de muebles de exterior"
+	},
+	{
+		"label": "Tienda de muebles de oficina",
+		"name": "tienda de muebles de oficina"
+	},
+	{
+		"label": "Tienda de neumáticos",
+		"name": "tienda de neumaticos"
+	},
+	{
+		"label": "Tienda de patinaje",
+		"name": "tienda de patinaje"
+	},
+	{
+		"label": "Tienda de pinturas y barnices",
+		"name": "tienda de pinturas y barnices"
+	},
+	{
+		"label": "Tienda de recambios de automóvil",
+		"name": "tienda de recambios de automovil"
+	},
+	{
+		"label": "Tienda de recambios de motocicleta",
+		"name": "tienda de recambios de motocicleta"
+	},
+	{
+		"label": "Tienda de regalos",
+		"name": "tienda de regalos"
+	},
+	{
+		"label": "Tienda de ropa de playa",
+		"name": "tienda de ropa de playa"
+	},
+	{
+		"label": "Tienda de ropa de segunda mano",
+		"name": "tienda de ropa de segunda mano"
+	},
+	{
+		"label": "Tienda de ropa infantil",
+		"name": "tienda de ropa infantil"
+	},
+	{
+		"label": "Tienda de ropa interior",
+		"name": "tienda de ropa interior"
+	},
+	{
+		"label": "Tienda de ropa para hombre",
+		"name": "tienda de ropa para hombre"
+	},
+	{
+		"label": "Tienda de ropa para mujer",
+		"name": "tienda de ropa para mujer"
+	},
+	{
+		"label": "Tienda de ropa para toda la familia",
+		"name": "tienda de ropa para toda la familia"
+	},
+	{
+		"label": "Tienda de skate",
+		"name": "tienda de skate"
+	},
+	{
+		"label": "Tienda de sofás",
+		"name": "tienda de sofas"
+	},
+	{
+		"label": "Tienda de surf",
+		"name": "tienda de surf"
+	},
+	{
+		"label": "Tienda de tallas grandes",
+		"name": "tienda de tallas grandes"
+	},
+	{
+		"label": "Tienda de tejidos",
+		"name": "tienda de tejidos"
+	},
+	{
+		"label": "Tienda de telefonía móvil",
+		"name": "tienda de telefonia movil"
+	},
+	{
+		"label": "Tienda de tenis y pádel",
+		"name": "tienda de tenis y padel"
+	},
+	{
+		"label": "Tienda de trajes de novia",
+		"name": "tienda de trajes de novia"
+	},
+	{
+		"label": "Tienda de ultramarinos",
+		"name": "tienda de ultramarinos"
+	},
+	{
+		"label": "Tienda de vehículos de segunda mano y de ocasión",
+		"name": "tienda de vehiculos de segunda mano y de ocasion"
+	},
+	{
+		"label": "Tienda de vestuario laboral",
+		"name": "tienda de vestuario laboral"
+	},
+	{
+		"label": "Tienda de videojuegos",
+		"name": "tienda de videojuegos"
+	},
+	{
+		"label": "Tienda por departamentos",
+		"name": "tienda por departamentos"
+	},
+	{
+		"label": "Tintorera",
+		"name": "tintorera"
+	},
+	{
+		"label": "Topógrafo",
+		"name": "topografo"
+	},
+	{
+		"label": "Traductor",
+		"name": "traductor"
+	},
+	{
+		"label": "Transporte de mercancías",
+		"name": "transporte de mercancias"
+	},
+	{
+		"label": "Transporte marítimo de mercancías",
+		"name": "transporte maritimo de mercancias"
+	},
+	{
+		"label": "Tranvía",
+		"name": "tranvia"
+	},
+	{
+		"label": "Traumatólogo",
+		"name": "traumatologo"
+	},
+	{
+		"label": "Universidad a distancia",
+		"name": "universidad a distancia"
+	},
+	{
+		"label": "Universidad privada",
+		"name": "universidad privada"
+	},
+	{
+		"label": "Universidad pública",
+		"name": "universidad publica"
+	},
+	{
+		"label": "Urólogo",
+		"name": "urologo"
+	},
+	{
+		"label": "Venta de jamones",
+		"name": "venta de jamones"
+	},
+	{
+		"label": "Vertedero",
+		"name": "vertedero"
+	},
+	{
+		"label": "Videoclub",
+		"name": "videoclub"
+	},
+	{
+		"label": "Vinoteca",
+		"name": "vinoteca"
+	},
+	{
+		"label": "Vivero de mariscos",
+		"name": "vivero de mariscos"
+	},
+	{
+		"label": "Vivero de plantas",
+		"name": "vivero de plantas"
+	},
+	{
+		"label": "Zapatería",
+		"name": "zapateria"
+	},
+	{
+		"label": "Zoológico",
+		"name": "zoologico"
+	}
+]
