@@ -126,18 +126,20 @@ class WCPMap
 
 		);
 
-		wp_register_script('petromap-api-polyfills', plugins_url('/lib/petromap-js/polyfills.js', WCPMAP_PLUGIN_FILE));
-		wp_register_script('petromap-api-main', plugins_url('/lib/petromap-js/main.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills'));
-		wp_register_script('petromap-api-stylejs', plugins_url('/lib/petromap-js/styles.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills', 'petromap-api-main'));
+		$minify = defined('WCPMAP_DEBUG') ? '.min' : '';
+
+		wp_register_script('petromap-api-polyfills', plugins_url('/lib/petromap-js/polyfills' . $minify . '.js', WCPMAP_PLUGIN_FILE));
+		wp_register_script('petromap-api-main', plugins_url('/lib/petromap-js/main' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills'));
+		wp_register_script('petromap-api-stylejs', plugins_url('/lib/petromap-js/styles' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills', 'petromap-api-main'));
 
 		wp_register_script('petromap-vendor', plugins_url('/assets/frontend/js/vendor.js', WCPMAP_PLUGIN_FILE), array('jquery_spinner_js'));
 		wp_register_script('petromap-init', plugins_url('/assets/frontend/js/init.js', WCPMAP_PLUGIN_FILE), array('jquery', 'petromap-api-main'));
-		wp_register_script('jquery_spinner_js',  plugins_url('/assets/frontend/js/PMapSpinner.min.js', WCPMAP_PLUGIN_FILE), array('jquery'), $WCMp->version, true);
+		wp_register_script('jquery_spinner_js',  plugins_url('/assets/frontend/js/PMapSpinner' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('jquery'), $WCMp->version, true);
 
 		wp_localize_script('petromap-vendor', 'pmap_config', array_filter($pmap_config));
 
-		wp_register_style('petromap-api-style', plugins_url('/lib/petromap-js/styles.css', WCPMAP_PLUGIN_FILE));
-		wp_register_style('jquery_spinner_css', plugins_url('/assets/frontend/css/PMapSpinner.min.css', WCPMAP_PLUGIN_FILE));
+		wp_register_style('petromap-api-style', plugins_url('/lib/petromap-js/styles' . $minify . '.css', WCPMAP_PLUGIN_FILE));
+		wp_register_style('jquery_spinner_css', plugins_url('/assets/frontend/css/PMapSpinner' . $minify . '.css', WCPMAP_PLUGIN_FILE));
 
 
 

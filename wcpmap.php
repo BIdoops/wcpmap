@@ -17,6 +17,8 @@
  */
 
 
+//define('WCPMAP_DEBUG', true)
+
 if (!defined('WCPMAP_PLUGIN_FILE')) {
 	define('WCPMAP_PLUGIN_FILE', __FILE__);
 }
