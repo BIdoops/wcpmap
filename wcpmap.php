@@ -18,7 +18,9 @@
 
 
 //define('WCPMAP_DEBUG', true)
-
+if (!defined('WCPMAP_CURRENT_VERSION')) {
+	define('WCPMAP_CURRENT_VERSION', '1.0.0');
+}
 if (!defined('WCPMAP_PLUGIN_FILE')) {
 	define('WCPMAP_PLUGIN_FILE', __FILE__);
 }
