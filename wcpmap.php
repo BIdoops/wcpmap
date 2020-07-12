@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WCPetroMap
  * Plugin URI: https://www.petromap.org/plugins/wc-petromap
- * Description: PetroMap for WC MArketplace.
+ * Description: PetroMap for WC Marketplace.
  * Author: PetroMap, Javier Rivas
  * Version: 1.0.0
  * Author URI: https://www.petromap.org/
