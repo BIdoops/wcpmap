@@ -37,7 +37,17 @@ class WCPMap
 				include('class-wcpmap-user.php');
 				include_once(WCPMAP_ABSPATH . 'includes/wcpmap-shop.php');
 				add_action('wcmp_before_shop_front',  array($this, 'init_petromap_script'), 110);
+				add_filter('wp_enqueue_scripts', array($this, 'register_enqueue_pollyfill'), 0);
 			}
+		}
+	}
+
+	public function register_enqueue_pollyfill()
+	{
+		if (!is_admin()) {
+			$minify = defined('WCPMAP_DEBUG') ? '' : '.min';
+			wp_register_script('petromap-api-polyfills', plugins_url('/lib/petromap-js/polyfills' . $minify . '.js', WCPMAP_PLUGIN_FILE), array(), WCPMAP_CURRENT_VERSION);
+			wp_enqueue_script('petromap-api-polyfills');
 		}
 	}
 
@@ -101,7 +111,7 @@ class WCPMap
 
 		$pmap_config = array(
 			"api_host" => WCPMAP_PETROMAP_SITE,
-			"host" => plugins_url('/lib/petromap-js', WCPMAP_PLUGIN_FILE),
+			"host" => WCPMAP_GATEWAY,
 			"mode" => 'place',
 			"mapContainer" => 'vendor_store_map',
 			"lonField" => 'store_lng',
@@ -113,7 +123,7 @@ class WCPMap
 				"url" => WCPMAP_GATEWAY,
 				"params" => array(
 					"sname" => $vendor->page_title,
-					"ssite" => trailingslashit(get_home_url()) . $store_slug . $vendor->page_slug,
+					"ssite" => preg_replace('/https?:\/\//', '', trailingslashit(get_home_url()) . $store_slug . $vendor->page_slug),
 					"sphone" => $vendor->phone,
 					"semail" => $vendor->user_data->user_email,
 					"ufname" => $user->first_name,
@@ -127,7 +137,6 @@ class WCPMap
 
 		$minify = defined('WCPMAP_DEBUG') ? '' : '.min';
 
-		wp_register_script('petromap-api-polyfills', plugins_url('/lib/petromap-js/polyfills' . $minify . '.js', WCPMAP_PLUGIN_FILE), array(), WCPMAP_CURRENT_VERSION);
 		wp_register_script('petromap-api-main', plugins_url('/lib/petromap-js/main' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills'), WCPMAP_CURRENT_VERSION);
 		wp_register_script('petromap-api-stylejs', plugins_url('/lib/petromap-js/styles' . $minify . '.js', WCPMAP_PLUGIN_FILE), array('petromap-api-polyfills', 'petromap-api-main'), WCPMAP_CURRENT_VERSION);
 
@@ -142,7 +151,6 @@ class WCPMap
 
 
 
-		wp_enqueue_script('petromap-api-polyfills');
 		wp_enqueue_script('petromap-api-main');
 		wp_enqueue_script('petromap-api-stylejs');
 

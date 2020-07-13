@@ -5,7 +5,7 @@
  * Plugin URI: https://www.petromap.org/plugins/wc-petromap
  * Description: PetroMap for WC Marketplace.
  * Author: PetroMap, Javier Rivas
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: https://www.petromap.org/
  * Requires at least: 1.0
  * Tested up to: 1.0
@@ -19,7 +19,7 @@
 
 //define('WCPMAP_DEBUG', true)
 if (!defined('WCPMAP_CURRENT_VERSION')) {
-	define('WCPMAP_CURRENT_VERSION', '1.0.0');
+	define('WCPMAP_CURRENT_VERSION', '1.0.1');
 }
 if (!defined('WCPMAP_PLUGIN_FILE')) {
 	define('WCPMAP_PLUGIN_FILE', __FILE__);

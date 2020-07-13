@@ -11,34 +11,30 @@
 	};
 	var params = config.gateway.params;
 	var form = $("form.wcmp_shop_settings_form .panel .panel-body .wcmp_form1");
-	form.append(`<div class="form-group">
-			<label class="control-label col-sm-3 col-md-3">PetroMap</label>
-			<div class="col-md-6 col-sm-9">
-				<div class="row col-md-12 inp-btm-margin">
-					<button id="petromap_connect_link" type="button" class="btn btn-default" name="petromap_connect_link">${
-						params.sel ? labels.select : labels.connect
-					}</button>
-				</div>
-				<div class="row col-md-12 inp-btm-margin">
-					<button id="petromap_edit_link" href="${config.gateway.url}/shop/update/${
-		params.sel
-	}" target="_blank" title="Modificar en PetroMap" style="${params.sel ? "" : "display: none"}"
-					type="button" class="btn btn-default" name="petromap_edit_link">${labels.update}</button>
-				</div>
-				<div class="row col-md-12 inp-btm-margin">
-					<button id="petromap_disconnect_link" type="button" class="btn btn-default"  style="${
-						params.sel ? "" : "display: none"
-					}" name="petromap_disconnect_link">${labels.disconnect}</button>
-					</div>
-				</div>
-		</div>`);
+	form.append('<div class="form-group">'+
+			'<label class="control-label col-sm-3 col-md-3">PetroMap</label>'+
+			'<div class="col-md-6 col-sm-9">'+
+				'<div class="row col-md-12 inp-btm-margin">'+
+					'<button id="petromap_connect_link" type="button" class="btn btn-default" name="petromap_connect_link">'+
+						(params.sel ? labels.select : labels.connect)+
+					'</button>'+
+				'</div>'+
+				'<div class="row col-md-12 inp-btm-margin">'+
+					'<button id="petromap_edit_link" href="'+ config.gateway.url+'/shop/update/'+params.sel+'" target="_blank" title="Modificar en PetroMap" style="'+(params.sel ? "" : "display: none")+
+					'type="button" class="btn btn-default" name="petromap_edit_link">'+labels.update+'</button>'+
+				'</div>'+
+				'<div class="row col-md-12 inp-btm-margin">'+
+					'<button id="petromap_disconnect_link" type="button" class="btn btn-default"  style="'+(params.sel ? "" : "display: none")+
+					'" name="petromap_disconnect_link">'+labels.disconnect+'</button>'+
+					'</div>'+
+				'</div>'+
+		'</div>');
 
-	var buttons = ([connect_button, disconnect_button, edit_button] = [
-		$("#petromap_connect_link"),
-		$("#petromap_disconnect_link"),
-		$("#petromap_edit_link"),
-	]);
-
+	var connect_button = $("#petromap_connect_link");
+	var disconnect_button = $("#petromap_disconnect_link");
+	var edit_button = $("#petromap_edit_link");
+	var buttons = [connect_button, disconnect_button, edit_button];
+	
 	connect_button.on("disconnected", function () {
 		$(this).text(labels.connect);
 	});
@@ -65,19 +61,15 @@
 		window.open(
 			url,
 			"_blank",
-			`height=${screen.height * 0.9},width=${screen.with * 0.33},left=${
-				connect_button.offset().left
-			}resizable=0,menubar=0,toolbar=0,scrollbars=0`
+			'height=${screen.height * 0.9},width=${screen.with * 0.33},left='+connect_button.offset().left+',resizable=0,menubar=0,toolbar=0,scrollbars=0'
 		);
 	});
 	edit_button.on("click", function () {
-		var url = `${config.gateway.url}/shop/update/${params.sel}`;
+		var url = config.gateway.url+'/shop/update/'+params.sel;
 		window.open(
 			url,
 			"_blank",
-			`height=${screen.height * 0.9},width=${screen.with * 0.33},left=${
-				connect_button.offset().left
-			}resizable=0,menubar=0,toolbar=0,scrollbars=0`
+			'height=${screen.height * 0.9},width='+(screen.with * 0.33)+',left='+connect_button.offset().left+',resizable=0,menubar=0,toolbar=0,scrollbars=0'
 		);
 	});
 	disconnect_button.on("click", function () {
