@@ -62,7 +62,6 @@ class WCPMap_Store_Location_Widget extends WP_Widget
 		$vendors = false;
 		// Only show current vendor widget when showing a vendor's product(s)
 		$show_widget = false;
-		$this->load_pmap_api();
 
 		if (is_tax($WCMp->taxonomy->taxonomy_name)) {
 			$vendor_id = get_queried_object()->term_id;
@@ -81,13 +80,14 @@ class WCPMap_Store_Location_Widget extends WP_Widget
 		}
 
 		if ($show_widget && isset($vendor->id)) {
+			$this->load_pmap_api();
 			sync_shop($vendor->id);
 			$vendor_pmap_store_id = get_user_meta($vendor->id, '_vendor_pmap_store_id', true);
 			$store_lat = get_user_meta($vendor->id, '_store_lat', true);
 			$store_lng = get_user_meta($vendor->id, '_store_lng', true);
 			$pmap_config = array(
 				"api_host" => WCPMAP_PETROMAP_SITE,
-				"host" => plugins_url('/lib/petromap-js', WCPMAP_PLUGIN_FILE),
+				"host" => WCPMAP_GATEWAY,
 				"mode" => 'place',
 				"mapContainer" => 'store-maps',
 				"lat" => $store_lat,
