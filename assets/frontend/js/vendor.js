@@ -26,8 +26,9 @@
 				'<div class="row col-md-12 inp-btm-margin">'+
 					'<button id="petromap_disconnect_link" type="button" class="btn btn-default"  style="'+(params.sel ? "" : "display: none")+
 					'" name="petromap_disconnect_link">'+labels.disconnect+'</button>'+
-					'</div>'+
 				'</div>'+
+				'<div class="row col-md-12 inp-btm-margin"><i>* Recuerde <strong>guardar</strong> las opciones</i></div>'+
+			'</div>'+
 		'</div>');
 
 	var connect_button = $("#petromap_connect_link");
