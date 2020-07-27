@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Network tests</title>
+    </head>
+    <body>
+		<h1>Network tests</h1>
+       <div>1) Fecthing from gateway.petromap.org:</div>
+	   <p id="result1" >Processing</p>
+       <div>2) tiles.bidoops.com:</div>
+	   <p id="result2" >Processing</p>
+    </body>
+</html>
+<script>
+
+var counter1 = {value : 0};
+var counter2 = {value : 0};
+var interval  = 300;
+var progress1 = setInterval(progress.bind(this,"result1",counter1), interval);
+var progress2 = setInterval(progress.bind(this,"result2",counter2), interval);
+
+function progress(result, counter) {
+	counter.value++
+	document.getElementById(result).innerHTML = "Processing "+".".repeat(counter.value%4);
+}
+
+
+fetch("https://gateway.petromap.org/mapbox/data/style.json?"+Date.now()).then(function() {passed("result1");}).catch(function() {failed("result1");}).finally(function() {  clearInterval(progress1); });
+
+fetch("https://tiles.bidoops.com/5/10/15.pbf?"+Date.now()).then(function() {passed("result2");}).catch(function() {failed("result2");}).finally(function() {  clearInterval(progress2); });
+
+function passed(result){
+	document.getElementById(result).innerHTML = "Passed!";
+		document.getElementById(result).style.color = 'rgb(18, 194, 58)'
+
+}
+function failed(result){
+	document.getElementById(result).innerHTML = "Failed!";
+	document.getElementById(result).style.color = 'red'
+}
+</script>
