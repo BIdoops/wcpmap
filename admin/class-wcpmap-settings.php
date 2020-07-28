@@ -36,12 +36,22 @@ class WCPMap_Admin_Settings
 						'type' => 'checkbox',
 						'value' => 'Enable',
 						'id' => 'is_petromap_enable',
-						'label_for' => 'goois_petromap_enablegle_api_key',
+						'label_for' => 'is_petromap_enablegle_api_key',
 						'name' => 'is_petromap_enable',
-						'hints' => __('Used for vendor store maps', 'dc-woocommerce-multi-vendor'),
+						'hints' => __('Se usa para la interface PetroMap de tiendas del vendedor', 'wcpmap'),
 						'text' => 'Activa functionalidades de PetroMap'
 					),
+					"wcpmap_dashboard_site_logo" => array(
+						'title' => __('Logotipo del sitio en PetroMap', 'wcpmap'),
+						'type' => 'upload',
+						'id' => 'wcpmap_gateway_site_logo',
+						'label_for' => 'wcpmap_gateway_site_logo',
+						'name' => 'wcpmap_gateway_site_logo',
+						'hints' => __('Se usa como logotipo del sitio en la interface PetroMap', 'wcpmap')
+					),
+
 				);
+
 				if ($is_petromap_enable) {
 					$fields['google_api_key']['attributes'] = array('readonly' => 'readonly');
 				}
@@ -58,6 +68,9 @@ class WCPMap_Admin_Settings
 	{
 		if (isset($input['is_petromap_enable'])) {
 			$new_input['is_petromap_enable'] = sanitize_text_field($input['is_petromap_enable']);
+		}
+		if (isset($input['wcpmap_gateway_site_logo'])) {
+			$new_input['wcpmap_gateway_site_logo'] = sanitize_text_field($input['wcpmap_gateway_site_logo']);
 		}
 		return $new_input;
 	}

@@ -108,6 +108,8 @@ class WCPMap
 		}
 
 		$vendor_pmap_store_id = get_user_meta($vendor->id, '_vendor_pmap_store_id', true);
+		$site_logo = get_wcmp_vendor_settings('wcpmap_gateway_site_logo', 'vendor', 'dashboard');
+		$site_logo = $site_logo ?  get_url_from_upload_field_value($site_logo) : '';
 
 		$pmap_config = array(
 			"api_host" => WCPMAP_PETROMAP_SITE,
@@ -122,6 +124,7 @@ class WCPMap
 			"gateway" => array(
 				"url" => WCPMAP_GATEWAY,
 				"params" => array(
+					"logo" => $site_logo,
 					"sname" => $vendor->page_title,
 					"ssite" => preg_replace('/https?:\/\//', '', trailingslashit(get_home_url()) . $store_slug . $vendor->page_slug),
 					"sphone" => $vendor->phone,

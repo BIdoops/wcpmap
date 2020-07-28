@@ -20,12 +20,12 @@
 					'</button>'+
 				'</div>'+
 				'<div class="row col-md-12 inp-btm-margin">'+
-					'<button id="petromap_edit_link" href="'+ config.gateway.url+'/shop/update/'+params.sel+'" target="_blank" title="Modificar en PetroMap" style="'+(params.sel ? "" : "display: none")+
-					'type="button" class="btn btn-default" name="petromap_edit_link">'+labels.update+'</button>'+
+					'<button id="petromap_edit_link" type="button" class="btn btn-default"  href="'+ config.gateway.url+'/shop/update/'+params.sel+'" target="_blank" title="Modificar en PetroMap" style="'+(params.sel ? "" : "display: none")+'" '+
+					'name="petromap_edit_link">'+labels.update+'</button>'+
 				'</div>'+
 				'<div class="row col-md-12 inp-btm-margin">'+
-					'<button id="petromap_disconnect_link" type="button" class="btn btn-default"  style="'+(params.sel ? "" : "display: none")+
-					'" name="petromap_disconnect_link">'+labels.disconnect+'</button>'+
+					'<button id="petromap_disconnect_link" type="button" class="btn btn-default" style="'+(params.sel ? "" : "display: none")+'" '+
+					'name="petromap_disconnect_link">'+labels.disconnect+'</button>'+
 				'</div>'+
 				'<div class="row col-md-12 inp-btm-margin"><i>* Recuerde <strong>guardar</strong> las opciones</i></div>'+
 			'</div>'+
